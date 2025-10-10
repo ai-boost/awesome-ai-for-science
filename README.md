@@ -1,0 +1,500 @@
+<div align="center">
+  <img src="assets/banner.jpg" alt="Awesome AI for Science Banner" width="100%">
+</div>
+
+# Awesome AI for Science 🧠🔬
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-ai-for-science.svg?style=social&label=Star)](https://github.com/ai-boost/awesome-ai-for-science)
+[![GitHub forks](https://img.shields.io/github/forks/ai-boost/awesome-ai-for-science.svg?style=social&label=Fork)](https://github.com/ai-boost/awesome-ai-for-science)
+
+> A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate **scientific discovery** across all disciplines.
+
+AI is revolutionizing scientific research - from drug discovery and materials design to climate modeling and astrophysics. This repository collects the best resources to help researchers leverage AI in their work.
+
+## 📚 Contents
+
+- [🧪 AI Tools for Research](#-ai-tools-for-research)
+- [📄 Paper→Poster / Slides / Graphical Abstract](#-paperposter--slides--graphical-abstract)
+- [📊 Chart Understanding & Generation](#-chart-understanding--generation)
+- [🔄 Paper-to-Code & Reproducibility](#-paper-to-code--reproducibility)
+- [📋 Scientific Documentation & Parsing](#-scientific-documentation--parsing)
+- [🧰 Research Workbench & Plugins](#-research-workbench--plugins)
+- [🕸️ Knowledge Extraction & Scholarly KGs](#-knowledge-extraction--scholarly-kgs)
+- [🤖 Research Agents & Autonomous Workflows](#-research-agents--autonomous-workflows)
+- [🏷️ Data Labeling & Curation](#-data-labeling--curation)
+- [⚗️ Scientific Machine Learning](#-scientific-machine-learning)
+- [📖 Papers & Reviews](#-papers--reviews)
+- [🔬 Domain-Specific Applications](#-domain-specific-applications)
+  - [🧬 Biology & Medicine](#-biology--medicine)
+  - [⚛️ Chemistry & Materials](#-chemistry--materials)  
+  - [🌌 Physics & Astronomy](#-physics--astronomy)
+  - [🌍 Earth & Climate Science](#-earth--climate-science)
+  - [🌾 Agriculture & Ecology](#-agriculture--ecology)
+- [🤖 Foundation Models for Science](#-foundation-models-for-science)
+- [📈 Datasets & Benchmarks](#-datasets--benchmarks)
+- [💻 Computing Frameworks](#-computing-frameworks)
+- [🎓 Educational Resources](#-educational-resources)
+- [🏛️ Research Communities](#-research-communities)
+- [📚 Related Awesome Lists](#-related-awesome-lists)
+
+---
+
+## 🧪 AI Tools for Research
+
+### Literature & Knowledge Management
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search
+
+### Data Analysis & Visualization
+- [AutoML](https://github.com/microsoft/FLAML) - Automated machine learning
+
+### Experiment Planning & Design
+- [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
+- [ChemGPT](https://huggingface.co/ncfrey/ChemGPT-1.2B) - Chemistry-focused language model for molecular tasks
+
+---
+
+## 📄 Paper→Poster / Slides / Graphical Abstract
+
+### Poster Generation
+- [Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Multi-agent system with Parser-Planner-Painter architecture converting `paper.pdf` to editable `poster.pptx`, outperforms GPT-4o with 87% fewer tokens
+- [mPLUG-PaperOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - Multimodal LLM for scientific charts and diagrams understanding/generation
+
+### Slides & Presentation Generation
+- [Auto-Slides](https://auto-slides.github.io/) - Multi-agent academic paper to high-quality presentation slides with interactive refinement
+- [PPTAgent](https://github.com/icip-cas/PPTAgent) - Beyond text-to-slides generation with PPTEval multi-dimensional evaluation (EMNLP 2025)
+- [paper2slides](https://github.com/takashiishida/paper2slides) - Transform arXiv papers into Beamer slides using LLMs
+- [AI Multi-Agent Presentation Builder](https://github.com/Azure-Samples/ai-multi-agent-presentation-builder) - Azure Semantic Kernel multi-agent PPT generation reference
+
+### Chart & Visualization Generation  
+*Note: For comprehensive chart understanding and code generation tools, see [📊 Chart Understanding & Generation](#-chart-understanding--generation) section*
+
+---
+
+## 📊 Chart Understanding & Generation
+
+### Chart-to-Code & Reproducibility
+- [ChartCoder (ACL 2025)](https://aclanthology.org/2025.acl-long.363/) - Multimodal LLM for chart-to-code generation, 7B model outperforms larger open-source MLLMs
+- [ChartAssistant / ChartAst (ACL 2024)](https://github.com/OpenGVLab/ChartAst) - Universal chart comprehension and reasoning model
+- [Chart-to-Text Datasets](https://github.com/vis-nlp/Chart-to-text) - Large-scale chart summarization datasets for training chart description capabilities
+
+### Scientific Visualization Tools
+- [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
+- [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
+- [PlotlyAI](https://plotly.com/ai/) - AI-powered data visualization and dashboard creation
+
+---
+
+## 🔄 Paper-to-Code & Reproducibility
+
+### Automated Code Generation
+- [AutoP2C](https://arxiv.org/abs/2504.20115) - LLM agent framework generating runnable repositories from academic papers
+- [ResearchCodeAgent](https://arxiv.org/abs/2504.20117) - Multi-agent system for automated codification of research methodologies
+- [ToolMaker](https://huggingface.co/papers/2502.11705) - Convert papers with code into callable agent tools
+
+### Experiment Automation
+- [BioProBench](https://huggingface.co/datasets/GreatCaptainNemo/BioProBench) - Comprehensive benchmark for automatic evaluation of LLMs on biological protocols and procedural understanding
+- [Alhazen](https://chanzuckerberg.github.io/alhazen/) - Extract experimental metadata and protocol information from scientific documents
+
+---
+
+## 📋 Scientific Documentation & Parsing
+
+### High-Performance Document Processing
+- [MinerU (2024/2025)](https://github.com/opendatalab/MinerU) - SOTA multimodal document parsing with 1.2B parameters outperforming GPT-4o, converts PDFs to LLM-ready Markdown/JSON
+- [PDF-Extract-Kit (2024)](https://github.com/opendatalab/PDF-Extract-Kit) - Comprehensive toolkit for high-quality PDF content extraction with layout detection, formula recognition, and OCR
+- [Docling (IBM, AAAI 2025)](https://research.ibm.com/publications/docling-an-efficient-open-source-toolkit-for-ai-driven-document-conversion) - Multi-format (PDF/DOCX/PPTX/HTML/Images) → structured data (Markdown/JSON) with layout reconstruction, table/formula recovery
+- [Nougat (Meta AI)](https://github.com/facebookresearch/nougat) - Neural optical understanding for academic documents, transforms scientific PDFs to Markdown with mathematical formula support
+- [PaddleOCR 3.0 (2024/2025)](https://github.com/PaddlePaddle/PaddleOCR) - Advanced OCR with PP-StructureV3 document parsing, 13% accuracy improvement, supports 80+ languages
+- [Unstructured](https://github.com/Unstructured-IO/unstructured) - Production-grade ETL for transforming complex documents into structured formats, with open-source API
+- [Marker](https://github.com/datalab-to/marker) - High-accuracy PDF→Markdown/JSON/HTML conversion, specialized for tables/formulas/code blocks with benchmark scripts
+- [S2ORC doc2json (AllenAI)](https://github.com/allenai/s2orc-doc2json) - Large-scale PDF/LaTeX/JATS parsing to standardized JSON for millions of papers
+- [GROBID](https://github.com/kermitt2/grobid) - Machine learning software for extracting structured metadata from scholarly documents
+- [Science-Parse / SPv2 (AllenAI)](https://github.com/allenai/science-parse) - Parse scientific papers to structured fields (title/author/sections/references)
+
+### Production Pipelines & Data Preparation
+- [IBM Data Prep Kit: PDF→Parquet](https://ibm.github.io/data-prep-kit/transforms/language/pdf2parquet/) - Large-scale scientific document ingestion pipeline with optimization configurations
+- [Mozilla document-to-markdown](https://github.com/mozilla-ai/document-to-markdown) - Docling-powered parsing with UI/CLI demonstration for rapid prototyping
+
+### Figure & Table Extraction
+- [PDFFigures2](https://github.com/allenai/pdffigures2) - Extract figures, tables, captions, and section titles from scholarly PDFs
+- [TableBank](https://github.com/doc-analysis/TableBank) - Large-scale table detection and recognition dataset with pre-trained models
+
+### Scientific Literature RAG & Analysis
+- [PaperQA2](https://github.com/future-house/paper-qa) - High-accuracy RAG for scientific PDFs with citation support, agentic RAG, and contradiction detection
+- [paper-reviewer](https://github.com/deep-diver/paper-reviewer) - Generate comprehensive reviews from arXiv papers and convert to blog posts
+
+---
+
+## 🧰 Research Workbench & Plugins
+
+### Interactive Research Environments
+- [Jupyter AI (JupyterLab Extension)](https://github.com/jupyterlab/jupyter-ai) - Official Jupyter extension with `%%ai` magic commands and sidebar chat assistant, connecting multiple model providers and local inference
+- [Notebook Intelligence (NBI)](https://github.com/notebook-intelligence/notebook-intelligence) - AI coding assistant for JupyterLab with agent mode, supporting arbitrary LLM providers (2025+)
+- [Google Colab AI Features](https://colab.research.google.com/) - Integrated AI assistance for data science and research notebooks
+
+### Literature Management Plugins
+- [PapersGPT for Zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Multi-PDF conversation, retrieval, and citation in Zotero with commercial/local models (Ollama), MCP support
+- [Zotero-GPT (MuiseDestiny)](https://github.com/MuiseDestiny/zotero-gpt) - Classic open-source plugin for document Q&A and summarization within Zotero
+- [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced citation key management and LaTeX integration
+
+### Scientific Writing & Collaboration
+- [Notion AI](https://www.notion.so/product/ai) - AI-powered research note-taking and knowledge management
+- [Obsidian Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - AI-powered note linking and research graph navigation
+- [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered literature discovery and research network mapping
+
+---
+
+## 🕸️ Knowledge Extraction & Scholarly KGs
+
+### Knowledge Graph Construction
+- [iText2KG](https://github.com/AuvaLab/itext2kg) - Incremental knowledge graph construction using LLMs with entity extraction and Neo4j visualization
+- [KoPA](https://github.com/zjukg/KoPA) - Structure-aware prefix adaptation for integrating LLMs with knowledge graphs (ACM MM 2024)
+- [Scholarly KGQA](https://arxiv.org/abs/2311.09841) - LLM-powered question answering over scholarly knowledge graphs (ArXiv paper)
+
+### Knowledge Graph Resources
+- [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Comprehensive collection of papers on unifying LLMs and knowledge graphs
+
+---
+
+## 🤖 Research Agents & Autonomous Workflows
+
+### Autonomous Research Systems (2024-2025 Breakthroughs)
+- [The AI Scientist v1 (2024)](https://arxiv.org/abs/2408.06292) - First fully autonomous research system: hypothesis→experiment→writing→review simulation
+- [The AI Scientist v2 (2025)](https://arxiv.org/abs/2504.08066) - Enhanced with Agentic Tree Search, reduced template dependency, first workshop-level accepted paper
+- [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
+- [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
+
+### Evaluation & Benchmarking
+- [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
+- [SciTrust (2024)](https://impact.ornl.gov/en/publications/scitrust-evaluating-the-trustworthiness-of-large-language-models-) - Trustworthiness evaluation framework for scientific LLMs (truthfulness, hallucination, sycophancy)
+- [SciBench](https://arxiv.org/abs/2307.10635) - College-level scientific problem-solving evaluation across multiple domains
+
+### Academic Review & Evaluation
+- [AgentReview](https://agentreview.github.io/) - LLM agents simulating academic peer review ecosystems
+- [LLM-Peer-Review](https://github.com/VijayGKR/LLM-Peer-Review) - Web application for LLM-assisted manuscript review and annotation
+
+### Domain-Specific Research Agents
+- [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
+- [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
+
+---
+
+## 🏷️ Data Labeling & Curation
+
+### Weak Supervision & Auto-Labeling
+- [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision for scientific datasets
+- [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis and visualization using natural language
+
+---
+
+## ⚗️ Scientific Machine Learning
+
+### Neural Differential Equations
+- [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - PyTorch implementation of neural ODEs
+- [torchdyn](https://github.com/DiffEqML/torchdyn) - Neural differential equations in PyTorch
+- [diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solving in JAX
+- [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Julia differential equations suite
+- [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural differential equations in Julia
+
+### Physics-Informed Neural Networks
+- [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving PDEs
+- [PINNs](https://github.com/maziarraissi/PINNs) - Physics-informed neural networks
+- [SciANN](https://github.com/sciann/sciann) - Keras-based scientific neural networks
+- [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks in Julia
+
+### Neural Operators & Model Discovery
+- [DeepONet](https://github.com/lululxvi/deeponet) - Learning nonlinear operators
+- [PySINDy](https://github.com/dynamicslab/pysindy) - Sparse identification of nonlinear dynamics
+- [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) - Learning operators in Fourier space
+
+---
+
+## 📖 Papers & Reviews
+
+### Foundational Papers
+- [Machine Learning for Scientometric Analysis](https://arxiv.org/abs/2109.10073) (2021.09) - Comprehensive review
+- [AI for Science: Progress and Challenges](https://arxiv.org/abs/2303.04346) (2023.03) - State of the field
+- [Foundation Models for Science](https://arxiv.org/abs/2205.15075) (2022.05) - Large models in research
+- [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (2018.06) - Breakthrough in neural ODEs
+- [Physics-Informed Neural Networks](https://arxiv.org/abs/1711.10561) (2017.11) - Physics-constrained deep learning
+- [Scientific Discovery in the Age of Artificial Intelligence](https://www.nature.com/articles/s41586-023-06221-2) - Nature review on AI's role in science
+
+### 📊 Comprehensive Surveys & Reviews (2024-2025)
+
+#### AI for Scientific Research
+- [AI4Research: A Survey of Artificial Intelligence for Scientific Research](https://arxiv.org/abs/2507.01903) (2025.07) - Systematic taxonomy of AI in research
+- [From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery](https://arxiv.org/abs/2505.13259) (2025.05) - Three-level taxonomy (Tool, Analyst, Scientist)
+- [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](https://arxiv.org/abs/2508.14111) (2025.08) - Comprehensive survey on agentic science across life sciences, chemistry, materials, and physics
+- [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions](https://arxiv.org/abs/2503.08979) (2025.03) - Comprehensive review of AI agents in science
+- [Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047) (2025.03) - Scientific AI agent systems
+
+#### Scientific Large Language Models  
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications](https://arxiv.org/abs/2406.10833) (2024.06) - 260+ scientific LLMs across domains
+- [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148) (2025.08) - Data-centric view of scientific LLMs
+- [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) (2024.01) - Domain-specific scientific LLMs
+
+#### Scientific Machine Learning
+- [Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next](https://arxiv.org/abs/2201.05624) (2022.01) - Comprehensive PINN review
+- [Physics-Informed Neural Networks and Extensions](https://arxiv.org/abs/2408.16806) (2024.08) - Recent PINN advances and variants
+- [Foundation Models for Environmental Science: A Survey](https://arxiv.org/abs/2504.04280) (2025.04) - Environmental applications
+- [Foundation Models in Bioinformatics](https://academic.oup.com/nsr/article/12/4/nwaf028/7979309) - Biological foundation models
+- [Foundation Models for Materials Discovery](https://www.nature.com/articles/s41524-025-01538-0) (2025) - Perspective on materials AI
+
+### 🚀 AI Scientist & Autonomous Research (2024-2025 Breakthroughs)
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) (2024.08) - First fully autonomous research system
+- [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) (2025.04) - Enhanced autonomous research with agentic tree search
+- [AI-Researcher: Autonomous Scientific Innovation](https://arxiv.org/abs/2505.18705) (2025.05) - Autonomous research pipeline from literature to publication with Scientist-Bench evaluation framework
+- [Autonomous Scientific Discovery Through Hierarchical AI Scientist Systems](https://arxiv.org/abs/2507.15951) (2025.07) - Self-evolving multi-agent research systems
+- [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) (2023.04) - LLM agents for chemistry research
+- [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - Automated chemical experimentation
+- [Coscientist: Autonomously planning and executing scientific experiments](https://www.nature.com/articles/s41586-023-06792-1) - Robotic lab automation
+
+### Recent Advances & Domain Applications
+- [AlphaFold: Protein Structure Prediction](https://www.nature.com/articles/s41586-021-03819-2)
+- [AI for Materials Discovery](https://www.nature.com/articles/s41578-023-00540-6) 
+- [Large Language Models in Chemistry](https://arxiv.org/abs/2402.05852) (2024.02)
+- [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085) (2022.11)
+
+### 📈 Evaluation & Benchmarking
+- [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
+- [Scientist-Bench](https://github.com/HKUDS/AI-Researcher) - Comprehensive benchmark for comparing LLM Agent-generated research outcomes with high-quality scientific work
+- [SciTrust: Evaluating the Trustworthiness of Large Language Models for Science](https://impact.ornl.gov/en/publications/scitrust-evaluating-the-trustworthiness-of-large-language-models-) (2024) - Scientific LLM trustworthiness evaluation framework
+- [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities](https://arxiv.org/abs/2307.10635) (2023) - Scientific reasoning benchmarks
+- [ChartCoder Evaluation](https://aclanthology.org/2025.acl-long.363/) - Chart-to-code generation benchmarks
+
+---
+
+## 🔬 Domain-Specific Applications
+
+### 🧬 Biology & Medicine
+
+#### Protein & Drug Discovery
+- [AlphaFold](https://github.com/google-deepmind/alphafold) - Protein structure prediction
+- [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
+- [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry) - Chemical language model
+- [DeepChem](https://github.com/deepchem/deepchem) - Machine learning for chemistry
+- [RDKit](https://github.com/rdkit/rdkit) - Cheminformatics toolkit
+- [ESMFold](https://github.com/facebookresearch/esm) - Protein structure prediction from ESM models
+
+#### Genomics & Bioinformatics
+- [scGPT](https://github.com/bowang-lab/scGPT) - Single-cell analysis with transformers
+- [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) - Gene expression prediction
+- [DNABERT](https://github.com/jerryji1993/DNABERT) - DNA sequence analysis
+- [scBERT](https://github.com/TencentAILabHealthcare/scBERT) - Single-cell BERT for gene expression
+- [GenePT](https://github.com/yiqunchen/GenePT) - Generative pre-training for genomics
+
+### ⚛️ Chemistry & Materials
+
+#### Materials Discovery
+- [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
+- [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
+- [MatBench](https://github.com/materialsproject/matbench) - Materials informatics benchmark
+
+#### Chemical Synthesis
+- [Molecular Transformers](https://github.com/pschwllr/MolecularTransformer) - AI for chemical reaction prediction and synthesis planning
+
+### 🌌 Physics & Astronomy
+
+#### Machine Learning for Physics
+- [JAX-MD](https://github.com/jax-md/jax-md) - Molecular dynamics in JAX
+- [Neural ODEs](https://github.com/rtqichen/torchdiffeq) - Differential equations with neural networks
+- [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
+
+#### Astronomy & Astrophysics
+- [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
+- [Gaia Archive](https://gea.esac.esa.int/archive/) - Stellar data for ML
+- [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Spherical CNNs for astronomy
+
+### 🌍 Earth & Climate Science
+
+#### Climate Modeling
+- [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
+- [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
+- [AI for Earth](https://planetarycomputer.microsoft.com/) - Microsoft's environmental AI
+
+### 🌾 Agriculture & Ecology
+
+#### Agricultural AI
+- [PlantNet](https://plantnet.org/) - Plant identification using AI and citizen science
+- [AgML](https://github.com/Project-AgML/AgML) - Agricultural machine learning platform
+
+#### Ecological Modeling
+- [BioSimulators](https://github.com/biosimulators/Biosimulators) - Biological simulation tools
+- [EcoNet](https://github.com/microsoft/EcoNet) - Ecological modeling and conservation AI
+
+---
+
+## 🤖 Foundation Models for Science
+
+### General Science Models
+- [Galactica](https://github.com/paperswithcode/galai) - Large language model for science
+- [MinervaAI](https://github.com/google-research/minerva) - Mathematical reasoning
+- [PaLM-2](https://ai.google/discover/palm2) - Scientific reasoning capabilities
+
+### Domain-Specific Models
+- [ESM](https://github.com/facebookresearch/esm) - Protein language models
+- [ChemGPT](https://huggingface.co/ncfrey/ChemGPT-1.2B) - Chemistry-focused language model
+- [BioGPT](https://github.com/microsoft/BioGPT) - Biomedical text generation
+
+---
+
+## 📈 Datasets & Benchmarks
+
+### Multidisciplinary
+- [Hugging Face Datasets](https://huggingface.co/datasets) - Scientific datasets
+- [Hugging Face Datasets](https://huggingface.co/datasets) - Comprehensive ML research datasets and scientific data collections
+- [Google Dataset Search](https://datasetsearch.research.google.com/) - Find scientific datasets
+
+### Biology & Medicine
+- [Protein Data Bank](https://www.rcsb.org/) - Protein structures
+- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Chemical bioactivity data
+- [Human Protein Atlas](https://www.proteinatlas.org/) - Protein expression data
+
+### Chemistry & Materials
+- [Materials Project](https://next-gen.materialsproject.org/) - Computational materials database
+- [QM9](https://quantum-machine.org/datasets/) - Small molecule properties
+- [Open Catalyst Project](https://opencatalystproject.org/) - Catalyst discovery
+
+### Physics
+- [LIGO Open Science Center](https://gwosc.org/) - Gravitational wave data
+- [Particle Data Group](https://pdg.lbl.gov/) - Particle physics data
+- [OpenQuantumMaterials](https://www.quantum-materials.org/) - Quantum materials data
+
+---
+
+## 💻 Computing Frameworks
+
+### Machine Learning
+- [PyTorch](https://pytorch.org/) - Deep learning framework
+- [JAX](https://github.com/jax-ml/jax) - High-performance ML research
+- [TensorFlow](https://tensorflow.org/) - End-to-end ML platform
+
+### Scientific Computing
+- [NumPy](https://numpy.org/) - Numerical computing
+- [SciPy](https://scipy.org/) - Scientific computing
+- [Scikit-learn](https://scikit-learn.org/) - Machine learning library
+
+### Scientific Machine Learning Frameworks
+- [SciML](https://sciml.ai/) - Scientific machine learning ecosystem
+- [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural differential equations in Julia
+- [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks in Julia
+- [Flux.jl](https://github.com/FluxML/Flux.jl) - Machine learning in Julia
+
+### Specialized Frameworks
+- [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Molecular dynamics analysis
+- [ASE](https://wiki.fysik.dtu.dk/ase/) - Atomic Simulation Environment for materials modeling
+- [PyMC](https://github.com/pymc-devs/pymc) - Probabilistic programming
+- [OpenMM](https://github.com/openmm/openmm) - High-performance molecular simulation toolkit
+
+---
+
+## 🎓 Educational Resources
+
+### Courses & Tutorials
+- [AI for Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone) - Basic AI concepts
+- [CS229 Machine Learning](https://cs229.stanford.edu/) - Stanford ML course
+- [MIT 6.034 Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) - AI fundamentals
+
+### Open Access Educational Materials
+- [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code implementations
+- [The Elements of Statistical Learning](https://hastie.su.stanford.edu/ElemStatLearn/) - Classic ML textbook freely available
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online book by Michael Nielsen
+
+### 📋 Paper Collections & Repositories
+- [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - Curated scientific LLM papers (260+ models)
+- [Awesome LLM Scientific Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - LLM papers for scientific discovery
+- [AI4Research Papers](https://github.com/du-nlp-lab/LLM4SR) - LLM for scientific research papers
+- [Physics-Informed Neural Networks Papers](https://github.com/idrl-lab/PINNpapers) - PINN research collection
+- [Scientific Computing with ML Papers](https://sciml.ai/papers/) - Scientific ML paper repository
+- [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
+- [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
+
+### YouTube Channels
+- [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai) - AI research summaries
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - Mathematical concepts
+- [AI Coffee Break](https://www.youtube.com/c/AICoffeeBreak) - AI paper reviews
+- [Steve Brunton](https://www.youtube.com/c/Eigensteve) - Data-driven methods
+- [Nathan Kutz](https://www.youtube.com/c/NathanKutz) - Applied mathematics
+- [Physics Informed Machine Learning](https://www.youtube.com/c/PIML) - SciML tutorials
+
+---
+
+## 🏛️ Research Communities
+
+### Conferences
+- [NeurIPS](https://neurips.cc/) - Machine learning conference
+- [ICML](https://icml.cc/) - International Conference on Machine Learning
+- [AI for Science Workshop](https://ai4sciencecommunity.github.io/) - Specialized workshops
+
+### Organizations
+- [Partnership on AI](https://partnershiponai.org/) - AI research collaboration
+- [Allen Institute for AI](https://allenai.org/) - AI research institute
+- [OpenAI](https://openai.com/) - AI research and deployment
+
+### Online Communities
+- [r/MachineLearning](https://reddit.com/r/MachineLearning) - ML discussions
+- [AI Alignment Forum](https://www.alignmentforum.org/) - AI safety research
+- [Distill](https://distill.pub/) - Visual explanations of ML
+
+---
+
+## 📚 Related Awesome Lists
+
+This project builds upon and complements several excellent resources:
+
+### 🎯 Specialized Collections
+- [awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - 200+ AI for Science papers with Chinese interpretations
+- [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
+- [Awesome Scientific Machine Learning](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning) - Physics-informed ML and SciML
+- [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
+- [Awesome LLM Agents Scientific Discovery](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) - Biomedical AI agents
+
+### 📊 Paper & Research Collections
+- [Scientific LLM Papers](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - 260+ scientific language models
+- [LLM4SR Repository](https://github.com/du-nlp-lab/LLM4SR) - LLM for scientific research survey materials
+- [PINNs Paper Collection](https://github.com/idrl-lab/PINNpapers) - Physics-informed neural networks research
+- [SciML Papers](https://sciml.ai/papers/) - Scientific computing and machine learning papers
+
+### 🌟 Key Insights from These Collections
+- **Current Focus**: Shift from tool-level assistance to autonomous scientific agents
+- **Emerging Trends**: Multi-modal scientific models, self-improving research systems
+- **Research Gaps**: Evaluation frameworks, ethical governance, human-AI collaboration
+- **Future Directions**: Fully autonomous discovery cycles, robotic lab integration
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+### How to Contribute
+1. Fork this repository
+2. Add your resource in the appropriate section
+3. Ensure the format matches existing entries
+4. Submit a pull request with a clear description
+
+### Contribution Guidelines
+- Ensure the resource is actively maintained
+- Include a brief, clear description
+- Check for duplicates before adding
+- Use proper markdown formatting
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to all researchers and developers pushing the boundaries of AI for Science. This list is inspired by the awesome community and the transformative potential of AI in scientific discovery.
+
+**Star ⭐ this repository if you find it helpful!**
+
+---
+
+*Last updated: October 2025 - Enhanced with 2024-2025 breakthroughs in autonomous research, document parsing, and scientific agents*

@@ -1,0 +1,29 @@
+# Commit Message Format: 📝 [Emoji] [Action] [Object]
+# 
+# Examples:
+# ✨ Add new feature for scientific paper parsing
+# 🐛 Fix broken links in documentation
+# 📝 Update README with installation instructions
+# 🔥 Remove deprecated API endpoints
+# 🚀 Deploy version 2.0 to production
+# 🎨 Improve code structure and formatting
+# ⚡ Optimize database query performance
+# 🔒 Enhance security validation
+# 📦 Update dependencies to latest versions
+# 🔧 Configure new build settings
+#
+# Common emojis:
+# ✨ :sparkles: new feature
+# 🐛 :bug: bug fix
+# 📝 :memo: documentation
+# 🎨 :art: code structure/format
+# ⚡ :zap: performance
+# 🔥 :fire: remove code/files
+# 🚀 :rocket: deploy
+# 🔒 :lock: security
+# 📦 :package: dependencies
+# 🔧 :wrench: configuration
+# 🔗 :link: links/references
+# 🧹 :broom: cleanup/refactor
+# 🧪 :test_tube: tests
+# 📊 :bar_chart: analytics/data
