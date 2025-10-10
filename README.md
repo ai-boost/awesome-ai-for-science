@@ -49,7 +49,7 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 - [📈 Datasets & Benchmarks](#-datasets--benchmarks)
 - [💻 Computing Frameworks](#-computing-frameworks)
 - [🎓 Educational Resources](#-educational-resources)
-- [🏛️ Research Communities](#-research-communities)
+- [🏛️ Research Communities](#research-communities)
 - [📚 Related Awesome Lists](#-related-awesome-lists)
 
 ---
@@ -356,7 +356,6 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 ## 📈 Datasets & Benchmarks
 
 ### Multidisciplinary
-- [Hugging Face Datasets](https://huggingface.co/datasets) - Scientific datasets
 - [Hugging Face Datasets](https://huggingface.co/datasets) - Comprehensive ML research datasets and scientific data collections
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - Find scientific datasets
 
