@@ -1,30 +1,34 @@
 <div align="center">
+  <h1>✨ Awesome AI for Science (AI4Science) ✨</h1>
+  
   <img src="assets/banner.jpg" alt="Awesome AI for Science Banner" width="100%">
+  
+  <p align="center">
+    A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate <strong>scientific discovery</strong> across all disciplines.
+  </p>
+  
+  <!-- Keep these links. Translations will automatically update with the README. -->
+  <p align="center">
+    <a href="https://zdoc.app/de/ai-boost/awesome-ai-for-science">Deutsch</a> | 
+    <a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science">English</a> | 
+    <a href="https://zdoc.app/es/ai-boost/awesome-ai-for-science">Español</a> | 
+    <a href="https://zdoc.app/fr/ai-boost/awesome-ai-for-science">français</a> | 
+    <a href="https://zdoc.app/ja/ai-boost/awesome-ai-for-science">日本語</a> | 
+    <a href="https://zdoc.app/ko/ai-boost/awesome-ai-for-science">한국어</a> | 
+    <a href="https://zdoc.app/pt/ai-boost/awesome-ai-for-science">Português</a> | 
+    <a href="https://zdoc.app/ru/ai-boost/awesome-ai-for-science">Русский</a> | 
+    <a href="https://zdoc.app/zh/ai-boost/awesome-ai-for-science">中文</a>
+  </p>
+  
+  <p align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+    <a href="https://opensource.org/license/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <a href="https://github.com/ai-boost/awesome-ai-for-science"><img src="https://img.shields.io/github/stars/ai-boost/awesome-ai-for-science.svg?style=social&label=Star" alt="GitHub stars"></a>
+    <a href="https://github.com/ai-boost/awesome-ai-for-science"><img src="https://img.shields.io/github/forks/ai-boost/awesome-ai-for-science.svg?style=social&label=Fork" alt="GitHub forks"></a>
+  </p>
 </div>
 
-<!-- Keep these links. Translations will automatically update with the README. -->
-<div align="center">
-<a href="https://zdoc.app/de/ai-boost/awesome-ai-for-science">Deutsch</a> | 
-<a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science">English</a> | 
-<a href="https://zdoc.app/es/ai-boost/awesome-ai-for-science">Español</a> | 
-<a href="https://zdoc.app/fr/ai-boost/awesome-ai-for-science">français</a> | 
-<a href="https://zdoc.app/ja/ai-boost/awesome-ai-for-science">日本語</a> | 
-<a href="https://zdoc.app/ko/ai-boost/awesome-ai-for-science">한국어</a> | 
-<a href="https://zdoc.app/pt/ai-boost/awesome-ai-for-science">Português</a> | 
-<a href="https://zdoc.app/ru/ai-boost/awesome-ai-for-science">Русский</a> | 
-<a href="https://zdoc.app/zh/ai-boost/awesome-ai-for-science">中文</a>
-</div>
-
-# Awesome AI for Science 🧠🔬
-
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-ai-for-science.svg?style=social&label=Star)](https://github.com/ai-boost/awesome-ai-for-science)
-[![GitHub forks](https://img.shields.io/github/forks/ai-boost/awesome-ai-for-science.svg?style=social&label=Fork)](https://github.com/ai-boost/awesome-ai-for-science)
-
-> A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate **scientific discovery** across all disciplines.
-
-AI is revolutionizing scientific research - from drug discovery and materials design to climate modeling and astrophysics. This repository collects the best resources to help researchers leverage AI in their work.
+> AI is revolutionizing scientific research - from drug discovery and materials design to climate modeling and astrophysics. This repository collects the best resources to help researchers leverage AI in their work.
 
 ## 📚 Contents
 
