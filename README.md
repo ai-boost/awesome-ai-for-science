@@ -2,6 +2,19 @@
   <img src="assets/banner.jpg" alt="Awesome AI for Science Banner" width="100%">
 </div>
 
+<!-- Keep these links. Translations will automatically update with the README. -->
+<div align="center">
+<a href="https://zdoc.app/de/ai-boost/awesome-ai-for-science">Deutsch</a> | 
+<a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science">English</a> | 
+<a href="https://zdoc.app/es/ai-boost/awesome-ai-for-science">Español</a> | 
+<a href="https://zdoc.app/fr/ai-boost/awesome-ai-for-science">français</a> | 
+<a href="https://zdoc.app/ja/ai-boost/awesome-ai-for-science">日本語</a> | 
+<a href="https://zdoc.app/ko/ai-boost/awesome-ai-for-science">한국어</a> | 
+<a href="https://zdoc.app/pt/ai-boost/awesome-ai-for-science">Português</a> | 
+<a href="https://zdoc.app/ru/ai-boost/awesome-ai-for-science">Русский</a> | 
+<a href="https://zdoc.app/zh/ai-boost/awesome-ai-for-science">中文</a>
+</div>
+
 # Awesome AI for Science 🧠🔬
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
