@@ -178,6 +178,8 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 - [The AI Scientist v2 (2025)](https://arxiv.org/abs/2504.08066) - Enhanced with Agentic Tree Search, reduced template dependency, first workshop-level accepted paper
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
+- [Curie](https://github.com/Just-Curieous/Curie) - Automated and rigorous experiments using AI agents for scientific discovery
+- [POPPER](https://github.com/snap-stanford/POPPER) - Automated hypothesis testing with agentic sequential falsifications
 
 ### Evaluation & Benchmarking
 - [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
@@ -286,6 +288,12 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 #### Protein & Drug Discovery
 - [AlphaFold](https://github.com/google-deepmind/alphafold) - Protein structure prediction
 - [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
+- [Protenix](https://github.com/bytedance/Protenix) - Trainable PyTorch reproduction of AlphaFold 3
+- [Graphormer](https://github.com/microsoft/Graphormer) - General-purpose deep learning backbone for molecular modeling
+- [targetdiff](https://github.com/guanjq/targetdiff) - 3D Equivariant Diffusion for Target-Aware Molecule Generation (ICLR2023)
+- [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
+- [mint](https://github.com/VarunUllanat/mint) - Learning the language of protein-protein interactions
+- [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions) - Large-scale biomolecular instruction dataset for chemistry/biology LLMs (ICLR2024)
 - [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry) - Chemical language model
 - [DeepChem](https://github.com/deepchem/deepchem) - Machine learning for chemistry
 - [RDKit](https://github.com/rdkit/rdkit) - Cheminformatics toolkit
@@ -302,8 +310,10 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 
 #### Materials Discovery
 - [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
+- [MatterSim](https://github.com/microsoft/mattersim) - Deep learning atomistic model across elements, temperatures, and pressures
 - [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
 - [MatBench](https://github.com/materialsproject/matbench) - Materials informatics benchmark
+- [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) - Curated list of atomistic ML projects for materials science
 
 #### Chemical Synthesis
 - [Molecular Transformers](https://github.com/pschwllr/MolecularTransformer) - AI for chemical reaction prediction and synthesis planning
@@ -314,6 +324,8 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 - [JAX-MD](https://github.com/jax-md/jax-md) - Molecular dynamics in JAX
 - [Neural ODEs](https://github.com/rtqichen/torchdiffeq) - Differential equations with neural networks
 - [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
+- [EquiformerV2](https://github.com/atomicarchitects/equiformer_v2) - Improved equivariant Transformer for 3D atomic graphs (ICLR2024)
+- [Equiformer](https://github.com/atomicarchitects/equiformer) - Equivariant graph attention Transformer (ICLR2023)
 
 #### Astronomy & Astrophysics
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
@@ -325,6 +337,9 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 #### Climate Modeling
 - [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
 - [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
+- [WeatherGFT](https://github.com/black-yt/WeatherGFT) - Physics-AI hybrid modeling for fine-grained weather forecasting (NeurIPS'24)
+- [Awesome Large Weather Models](https://github.com/jaychempan/Awesome-LWMs) - Curated list of large weather models for AI Earth science
+- [TerraTorch](https://github.com/IBM/terratorch) - Python toolkit for fine-tuning geospatial foundation models
 - [AI for Earth](https://planetarycomputer.microsoft.com/) - Microsoft's environmental AI
 
 ### 🌾 Agriculture & Ecology
@@ -363,6 +378,7 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 - [Protein Data Bank](https://www.rcsb.org/) - Protein structures
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Chemical bioactivity data
 - [Human Protein Atlas](https://www.proteinatlas.org/) - Protein expression data
+- [Chinese Medical Dataset](https://github.com/Mengqi97/chinese-medical-dataset) - Comprehensive collection of Chinese medical datasets for AI research
 
 ### Chemistry & Materials
 - [Materials Project](https://next-gen.materialsproject.org/) - Computational materials database
@@ -390,6 +406,8 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 
 ### Scientific Machine Learning Frameworks
 - [SciML](https://sciml.ai/) - Scientific machine learning ecosystem
+- [SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) - Scientific machine learning benchmarks & differential equation solvers
+- [PaddleScience](https://github.com/PaddlePaddle/PaddleScience) - SDK & library for AI-driven scientific computing applications
 - [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural differential equations in Julia
 - [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks in Julia
 - [Flux.jl](https://github.com/FluxML/Flux.jl) - Machine learning in Julia
