@@ -49,7 +49,7 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 - [📈 Datasets & Benchmarks](#-datasets--benchmarks)
 - [💻 Computing Frameworks](#-computing-frameworks)
 - [🎓 Educational Resources](#-educational-resources)
-- [🏛️ Research Communities](#research-communities)
+- [🏛 Research Communities](#-research-communities)
 - [📚 Related Awesome Lists](#-related-awesome-lists)
 
 ---
@@ -433,7 +433,7 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 
 ---
 
-## 🏛️ Research Communities
+## 🏛 Research Communities
 
 ### Conferences
 - [NeurIPS](https://neurips.cc/) - Machine learning conference
