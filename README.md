@@ -57,14 +57,19 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 ## 🧪 AI Tools for Research
 
 ### Literature & Knowledge Management
-- [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search (Allen AI)
+- [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
+- [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
+- [CORE](https://core.ac.uk/) - Aggregator of open access research papers
 
 ### Data Analysis & Visualization
-- [AutoML](https://github.com/microsoft/FLAML) - Automated machine learning
+- [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
+- [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
+- [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
 
-### Experiment Planning & Design
-- [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
-- [ChemGPT](https://huggingface.co/ncfrey/ChemGPT-1.2B) - Chemistry-focused language model for molecular tasks
+### Data Labeling & Annotation
+- [Label Studio](https://github.com/heartexlabs/label-studio) - Multi-type data labeling and annotation tool
+- [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision
 
 ---
 
@@ -191,6 +196,7 @@ AI is revolutionizing scientific research - from drug discovery and materials de
 - [LLM-Peer-Review](https://github.com/VijayGKR/LLM-Peer-Review) - Web application for LLM-assisted manuscript review and annotation
 
 ### Domain-Specific Research Agents
+- [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
 - [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
 - [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
 
