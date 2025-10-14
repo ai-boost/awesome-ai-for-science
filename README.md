@@ -87,7 +87,14 @@
 - [Auto-Slides](https://auto-slides.github.io/) - Multi-agent academic paper to high-quality presentation slides with interactive refinement
 - [PPTAgent](https://github.com/icip-cas/PPTAgent) - Beyond text-to-slides generation with PPTEval multi-dimensional evaluation (EMNLP 2025)
 - [paper2slides](https://github.com/takashiishida/paper2slides) - Transform arXiv papers into Beamer slides using LLMs
+- [PaperToSlides](https://github.com/jxtse/PaperToSlides) - AI-powered tool that automatically converts academic papers (PDF) into presentation slides
+- [pdf2slides](https://github.com/ha0ranyu/pdf2slides) - Convert PDF files into editable slides with three lines of code
+- [SlideDeck AI](https://github.com/barun-saha/slide-deck-ai) - Co-create PowerPoint presentations with Generative AI from documents or topics
 - [AI Multi-Agent Presentation Builder](https://github.com/Azure-Samples/ai-multi-agent-presentation-builder) - Azure Semantic Kernel multi-agent PPT generation reference
+
+### Video & Media Generation
+- [Paper2Video](https://github.com/showlab/Paper2Video) - First benchmark for automatic video generation from scientific papers (NeurIPS 2025)
+- [paper2video](https://github.com/mett29/paper2video) - Transform arXiv research papers into engaging presentations and YouTube-ready videos
 
 ### Chart & Visualization Generation  
 *Note: For comprehensive chart understanding and code generation tools, see [📊 Chart Understanding & Generation](#-chart-understanding--generation) section*
