@@ -306,6 +306,7 @@
 - [AlphaFold](https://github.com/google-deepmind/alphafold) - Protein structure prediction
 - [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
 - [Protenix](https://github.com/bytedance/Protenix) - Trainable PyTorch reproduction of AlphaFold 3
+- [MegaFold](https://github.com/Supercomputing-System-AI-Lab/MegaFold/) - Cross-platform system optimizations for accelerating AlphaFold3 training with 1.73x speedup and 1.23x memory reduction
 - [Graphormer](https://github.com/microsoft/Graphormer) - General-purpose deep learning backbone for molecular modeling
 - [targetdiff](https://github.com/guanjq/targetdiff) - 3D Equivariant Diffusion for Target-Aware Molecule Generation (ICLR2023)
 - [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
