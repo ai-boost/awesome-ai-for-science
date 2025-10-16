@@ -287,6 +287,8 @@
 - [AlphaFold: Protein Structure Prediction](https://www.nature.com/articles/s41586-021-03819-2)
 - [AI for Materials Discovery](https://www.nature.com/articles/s41578-023-00540-6) 
 - [Large Language Models in Chemistry](https://arxiv.org/abs/2402.05852) (2024.02)
+- [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
+- [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
 - [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085) (2022.11)
 
 ### 📈 Evaluation & Benchmarking
@@ -319,6 +321,7 @@
 
 #### Genomics & Bioinformatics
 - [scGPT](https://github.com/bowang-lab/scGPT) - Single-cell analysis with transformers
+- [Cell2Sentence](https://github.com/vandijklab/cell2sentence) - Teaching Large Language Models the Language of Biology through single-cell transcriptomics (ICML 2024)
 - [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) - Gene expression prediction
 - [DNABERT](https://github.com/jerryji1993/DNABERT) - DNA sequence analysis
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT) - Single-cell BERT for gene expression
