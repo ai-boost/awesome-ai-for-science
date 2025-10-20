@@ -275,6 +275,7 @@
 - [Physics-Informed Neural Networks and Extensions](https://arxiv.org/abs/2408.16806) (2024.08) - Recent PINN advances and variants
 - [The frontier of simulation-based inference](https://www.pnas.org/doi/10.1073/pnas.1912789117) (PNAS 2020) - Foundational review on SBI for scientific computing by Cranmer et al.
 - [From Theory to Application: A Practical Introduction to Neural Operators in Scientific Computing](https://arxiv.org/abs/2503.05598) (2025.03) - Implementation-focused guide to DeepONet, FNO, and PCANet
+- [Architectures, variants, and performance of neural operators: A comparative review](https://www.sciencedirect.com/science/article/abs/pii/S0925231225011907) (2025) - Systematic analysis of DeepONets, integral kernel operators, and transformer-based neural operators
 - [Foundation Models for Environmental Science: A Survey](https://arxiv.org/abs/2504.04280) (2025.04) - Environmental applications
 - [Foundation Models in Bioinformatics](https://academic.oup.com/nsr/article/12/4/nwaf028/7979309) - Biological foundation models
 - [Foundation Models for Materials Discovery](https://www.nature.com/articles/s41524-025-01538-0) (2025) - Perspective on materials AI
@@ -285,6 +286,11 @@
 
 #### Automation & Self-Driving Laboratories
 - [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055) (Chem. Rev. 2024) - Comprehensive 100-page review on SDL technology, applications, and infrastructure
+- [Autonomous 'self-driving' laboratories: a review of technology and policy implications](https://royalsocietypublishing.org/doi/10.1098/rsos.250646) (Royal Soc. Open Sci. 2025) - Technology review with policy and safety considerations
+
+#### Policy & Strategic Perspectives
+- [Artificial Intelligence for Science](https://www.csiro.au/-/media/d61/ai4science-report/ai-for-science-report-2022.pdf) (CSIRO 2022) - Landmark report analyzing AI adoption across 98% of scientific fields over 60 years
+- [AI in science evidence review](https://scientificadvice.eu/scientific-outputs/ai-in-science-evidence-review-report/) (European Scientific Advice 2024) - Policy-focused evidence review on AI's impact in research
 
 ### 🚀 AI Scientist & Autonomous Research (2024-2025 Breakthroughs)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) (2024.08) - First fully autonomous research system
@@ -472,6 +478,7 @@
 - [AI4Research Papers](https://github.com/du-nlp-lab/LLM4SR) - LLM for scientific research papers
 - [Physics-Informed Neural Networks Papers](https://github.com/idrl-lab/PINNpapers) - PINN research collection
 - [Scientific Computing with ML Papers](https://sciml.ai/papers/) - Scientific ML paper repository
+- [Simulation-Based Inference Papers & Tools](https://simulation-based-inference.org/papers/) - Community-maintained SBI research portal with papers and software
 - [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
 
