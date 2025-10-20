@@ -257,7 +257,9 @@
 ### 📊 Comprehensive Surveys & Reviews (2024-2025)
 
 #### AI for Scientific Research
+- [A Survey on AI-assisted Scientific Discovery](https://arxiv.org/abs/2502.05151) (2025.02) - Comprehensive overview of LLMs in scientific research lifecycle from literature search to peer review
 - [AI4Research: A Survey of Artificial Intelligence for Scientific Research](https://arxiv.org/abs/2507.01903) (2025.07) - Systematic taxonomy of AI in research
+- [Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems](https://arxiv.org/abs/2307.08423) (2023.07) - Unified technical survey across scientific scales with 63 contributors
 - [From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery](https://arxiv.org/abs/2505.13259) (2025.05) - Three-level taxonomy (Tool, Analyst, Scientist)
 - [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](https://arxiv.org/abs/2508.14111) (2025.08) - Comprehensive survey on agentic science across life sciences, chemistry, materials, and physics
 - [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions](https://arxiv.org/abs/2503.08979) (2025.03) - Comprehensive review of AI agents in science
@@ -271,9 +273,18 @@
 #### Scientific Machine Learning
 - [Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next](https://arxiv.org/abs/2201.05624) (2022.01) - Comprehensive PINN review
 - [Physics-Informed Neural Networks and Extensions](https://arxiv.org/abs/2408.16806) (2024.08) - Recent PINN advances and variants
+- [The frontier of simulation-based inference](https://www.pnas.org/doi/10.1073/pnas.1912789117) (PNAS 2020) - Foundational review on SBI for scientific computing by Cranmer et al.
+- [From Theory to Application: A Practical Introduction to Neural Operators in Scientific Computing](https://arxiv.org/abs/2503.05598) (2025.03) - Implementation-focused guide to DeepONet, FNO, and PCANet
 - [Foundation Models for Environmental Science: A Survey](https://arxiv.org/abs/2504.04280) (2025.04) - Environmental applications
 - [Foundation Models in Bioinformatics](https://academic.oup.com/nsr/article/12/4/nwaf028/7979309) - Biological foundation models
 - [Foundation Models for Materials Discovery](https://www.nature.com/articles/s41524-025-01538-0) (2025) - Perspective on materials AI
+
+#### Uncertainty Quantification
+- [Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons](https://www.sciencedirect.com/science/article/abs/pii/S0021999122009652) (J. Comput. Phys. 2023) - Comprehensive framework for UQ in PINNs and neural operators by Psaros et al.
+- [A Survey on Uncertainty Quantification Methods for Deep Learning](https://arxiv.org/abs/2302.13425) (2023) - Systematic taxonomy of UQ methods from uncertainty source perspective
+
+#### Automation & Self-Driving Laboratories
+- [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055) (Chem. Rev. 2024) - Comprehensive 100-page review on SDL technology, applications, and infrastructure
 
 ### 🚀 AI Scientist & Autonomous Research (2024-2025 Breakthroughs)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) (2024.08) - First fully autonomous research system
