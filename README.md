@@ -194,6 +194,7 @@
 - [The AI Scientist v2 (2025)](https://arxiv.org/abs/2504.08066) - Enhanced with Agentic Tree Search, reduced template dependency, first workshop-level accepted paper
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
+- [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Democratizing AI scientists by transforming any LLM into research systems with 600+ scientific tools (Harvard MIMS)
 - [Aviary](https://github.com/Future-House/aviary) - Language agent gymnasium for challenging scientific tasks including DNA manipulation, literature search, and protein engineering
 - [Curie](https://github.com/Just-Curieous/Curie) - Automated and rigorous experiments using AI agents for scientific discovery
 - [POPPER](https://github.com/snap-stanford/POPPER) - Automated hypothesis testing with agentic sequential falsifications
@@ -307,6 +308,8 @@
 - [Large Language Models in Chemistry](https://arxiv.org/abs/2402.05852) (2024.02)
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
 - [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
+- [Democratizing AI scientists using ToolUniverse](https://arxiv.org/abs/2509.23426) (2025.09) - Universal ecosystem for building AI scientists from any LLM with 600+ scientific tools
+- [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) (2025.03) - AI agent achieving 92.1% accuracy in drug reasoning, outperforming GPT-4o by 25.8%
 - [Aviary: Training Language Agents on Challenging Scientific Tasks](https://arxiv.org/abs/2412.21154) (2024.12) - Language agent training framework for scientific discovery
 - [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085) (2022.11)
 
