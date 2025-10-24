@@ -68,6 +68,7 @@
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
+- [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - First agentic LLM for autonomous data science with end-to-end pipeline from data to analyst-grade reports
 - [AutoViz](https://github.com/AutoViML/AutoViz) - Automated data visualization with minimal code
 - [Chat2Plot](https://github.com/nyanp/chat2plot) - Secure text-to-visualization through standardized chart specifications
 
@@ -309,6 +310,7 @@
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
 - [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
 - [Boltz-1: Democratizing Biomolecular Interaction Modeling](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v2) (bioRxiv 2024) - First fully open-source model achieving AlphaFold3-level accuracy
+- [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872) (2025.10) - First agentic LLM for autonomous data science with curriculum-based training
 - [Democratizing AI scientists using ToolUniverse](https://arxiv.org/abs/2509.23426) (2025.09) - Universal ecosystem for building AI scientists from any LLM with 600+ scientific tools
 - [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) (2025.03) - AI agent achieving 92.1% accuracy in drug reasoning, outperforming GPT-4o by 25.8%
 - [Aviary: Training Language Agents on Challenging Scientific Tasks](https://arxiv.org/abs/2412.21154) (2024.12) - Language agent training framework for scientific discovery
