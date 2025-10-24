@@ -97,6 +97,9 @@
 - [Paper2Video](https://github.com/showlab/Paper2Video) - First benchmark for automatic video generation from scientific papers (NeurIPS 2025)
 - [paper2video](https://github.com/mett29/paper2video) - Transform arXiv research papers into engaging presentations and YouTube-ready videos
 
+### Website & Interactive Content Generation
+- [Paper2All](https://github.com/YuhangChen1/Paper2All) - AI-powered pipeline converting papers into interactive websites, posters, and multimedia presentations with "Let's Make Your Paper Alive!" philosophy
+
 ### Chart & Visualization Generation  
 *Note: For comprehensive chart understanding and code generation tools, see [📊 Chart Understanding & Generation](#-chart-understanding--generation) section*
 
@@ -312,6 +315,7 @@
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
 - [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
 - [Boltz-1: Democratizing Biomolecular Interaction Modeling](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v2) (bioRxiv 2024) - First fully open-source model achieving AlphaFold3-level accuracy
+- [Paper2Web: Let's Make Your Paper Alive!](https://arxiv.org/abs/2510.15842) (2025.10) - AI-powered transformation of academic papers into interactive websites with comprehensive evaluation framework
 - [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872) (2025.10) - First agentic LLM for autonomous data science with curriculum-based training
 - [Democratizing AI scientists using ToolUniverse](https://arxiv.org/abs/2509.23426) (2025.09) - Universal ecosystem for building AI scientists from any LLM with 600+ scientific tools
 - [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) (2025.03) - AI agent achieving 92.1% accuracy in drug reasoning, outperforming GPT-4o by 25.8%
