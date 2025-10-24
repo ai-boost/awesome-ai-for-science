@@ -195,6 +195,7 @@
 - [The AI Scientist v2 (2025)](https://arxiv.org/abs/2504.08066) - Enhanced with Agentic Tree Search, reduced template dependency, first workshop-level accepted paper
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
+- [InternAgent](https://github.com/Alpha-Innovator/InternAgent) - Closed-loop multi-agent system from hypothesis to verification across 12 scientific tasks, #1 on MLE-Bench (36.44%)
 - [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Democratizing AI scientists by transforming any LLM into research systems with 600+ scientific tools (Harvard MIMS)
 - [Aviary](https://github.com/Future-House/aviary) - Language agent gymnasium for challenging scientific tasks including DNA manipulation, literature search, and protein engineering
 - [Curie](https://github.com/Just-Curieous/Curie) - Automated and rigorous experiments using AI agents for scientific discovery
@@ -298,6 +299,7 @@
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) (2024.08) - First fully autonomous research system
 - [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) (2025.04) - Enhanced autonomous research with agentic tree search
 - [AI-Researcher: Autonomous Scientific Innovation](https://arxiv.org/abs/2505.18705) (2025.05) - Autonomous research pipeline from literature to publication with Scientist-Bench evaluation framework
+- [InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938) (2025.05) - Multi-agent system achieving #1 on MLE-Bench with closed-loop research automation
 - [Autonomous Scientific Discovery Through Hierarchical AI Scientist Systems](https://arxiv.org/abs/2507.15951) (2025.07) - Self-evolving multi-agent research systems
 - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) (2023.04) - LLM agents for chemistry research
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - Automated chemical experimentation
