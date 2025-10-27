@@ -315,7 +315,8 @@
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
 - [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
 - [Boltz-1: Democratizing Biomolecular Interaction Modeling](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v2) (bioRxiv 2024) - First fully open-source model achieving AlphaFold3-level accuracy
-- [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2501.12044) (2025.01) - Specialized training environment for biomedical AI agents with code-centric reasoning
+- [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) (ACL 2024) - Multi-disciplinary collaboration framework for medical reasoning using role-playing LLM agents
+- [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) (2025.06) - Specialized training environment for biomedical AI agents with code-centric reasoning
 - [Paper2Web: Let's Make Your Paper Alive!](https://arxiv.org/abs/2510.15842) (2025.10) - AI-powered transformation of academic papers into interactive websites with comprehensive evaluation framework
 - [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://arxiv.org/abs/2510.16872) (2025.10) - First agentic LLM for autonomous data science with curriculum-based training
 - [Democratizing AI scientists using ToolUniverse](https://arxiv.org/abs/2509.23426) (2025.09) - Universal ecosystem for building AI scientists from any LLM with 600+ scientific tools
@@ -361,7 +362,8 @@
 - [GenePT](https://github.com/yiqunchen/GenePT) - Generative pre-training for genomics
 
 #### Medical AI & Clinical Applications
-- [MedAgentGym](https://github.com/MedAgentGym/MedAgentGym) - Scalable agentic training environment for code-centric reasoning in biomedical data science
+- [MedAgents](https://github.com/gersteinlab/MedAgents) - Multi-disciplinary collaboration framework for zero-shot medical reasoning using role-playing LLM agents (ACL 2024)
+- [MedAgentGym](https://github.com/wshi83/MedAgentGym) - Scalable agentic training environment for code-centric reasoning in biomedical data science
 
 ### ⚛️ Chemistry & Materials
 
