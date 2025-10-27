@@ -315,6 +315,7 @@
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
 - [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
 - [Boltz-1: Democratizing Biomolecular Interaction Modeling](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v2) (bioRxiv 2024) - First fully open-source model achieving AlphaFold3-level accuracy
+- [Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents](https://arxiv.org/abs/2509.23141) (2025.09) - LLM agent framework for Earth Observation with 104 specialized tools and multi-modal analysis
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) (ACL 2024) - Multi-disciplinary collaboration framework for medical reasoning using role-playing LLM agents
 - [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) (2025.06) - Specialized training environment for biomedical AI agents with code-centric reasoning
 - [Paper2Web: Let's Make Your Paper Alive!](https://arxiv.org/abs/2510.15842) (2025.10) - AI-powered transformation of academic papers into interactive websites with comprehensive evaluation framework
@@ -399,6 +400,7 @@
 - [WeatherGFT](https://github.com/black-yt/WeatherGFT) - Physics-AI hybrid modeling for fine-grained weather forecasting (NeurIPS'24)
 - [Awesome Large Weather Models](https://github.com/jaychempan/Awesome-LWMs) - Curated list of large weather models for AI Earth science
 - [TerraTorch](https://github.com/IBM/terratorch) - Python toolkit for fine-tuning geospatial foundation models
+- [Earth-Agent](https://github.com/opendatalab/Earth-Agent) - LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits
 - [AI for Earth](https://planetarycomputer.microsoft.com/) - Microsoft's environmental AI
 
 ### 🌾 Agriculture & Ecology
