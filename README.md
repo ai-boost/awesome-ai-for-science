@@ -467,10 +467,13 @@
 
 ### Scientific Machine Learning Frameworks
 - [SciML](https://sciml.ai/) - Scientific machine learning ecosystem
+- [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance differential equation solving and scientific machine learning (3.0k+ stars)
+- [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - Acausal modeling framework for automatically parallelized scientific machine learning (1.5k+ stars)
 - [SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) - Scientific machine learning benchmarks & differential equation solvers
+- [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks (PINNs) for solving partial differential equations (1.1k+ stars)
+- [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural ordinary differential equations with O(1) backprop and GPU support (900+ stars)
+- [Optimization.jl](https://github.com/SciML/Optimization.jl) - Unified interface for local, global, gradient-based and derivative-free optimization (800+ stars)
 - [PaddleScience](https://github.com/PaddlePaddle/PaddleScience) - SDK & library for AI-driven scientific computing applications
-- [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural differential equations in Julia
-- [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks in Julia
 - [Flux.jl](https://github.com/FluxML/Flux.jl) - Machine learning in Julia
 
 ### Specialized Frameworks
@@ -489,6 +492,7 @@
 - [MIT 6.034 Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) - AI fundamentals
 
 ### Open Access Educational Materials
+- [SciML Book](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning: MIT 18.337J/6.338J course materials (1.9k+ stars)
 - [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code implementations
 - [The Elements of Statistical Learning](https://hastie.su.stanford.edu/ElemStatLearn/) - Classic ML textbook freely available
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online book by Michael Nielsen
