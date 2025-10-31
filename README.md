@@ -215,6 +215,7 @@
 
 ### Domain-Specific Research Agents
 - [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
+- [MOOSE](https://github.com/ZonglinY/MOOSE) - Large Language Models for automated open-domain scientific hypotheses discovery (ACL 2024, ICML Best Poster)
 - [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
 - [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
 
@@ -240,6 +241,8 @@
 ### Physics-Informed Neural Networks
 - [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving PDEs
 - [PINNs](https://github.com/maziarraissi/PINNs) - Physics-informed neural networks
+- [NVIDIA PhysicsNeMo](https://github.com/NVIDIA/physicsnemo) - Open-source framework for building physics-ML models at scale (renamed from Modulus, 2025)
+- [PINA](https://github.com/mathLab/PINA) - Physics-Informed Neural networks for Advanced modeling in PyTorch
 - [SciANN](https://github.com/sciann/sciann) - Keras-based scientific neural networks
 - [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks in Julia
 
@@ -315,6 +318,7 @@
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://arxiv.org/abs/2405.06147) (ICML 2024) - LLMs for single-cell transcriptomics
 - [Scaling Large Language Models for Next-Generation Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v2) (2025.04) - 27B parameter biological language models
 - [Boltz-1: Democratizing Biomolecular Interaction Modeling](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v2) (bioRxiv 2024) - First fully open-source model achieving AlphaFold3-level accuracy
+- [MOOSE: Large Language Models for Automated Open-domain Scientific Hypotheses Discovery](https://arxiv.org/abs/2309.02726) (ACL 2024) - First work showing LLMs can generate novel and valid scientific hypotheses, ICML Best Poster Award
 - [Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents](https://arxiv.org/abs/2509.23141) (2025.09) - LLM agent framework for Earth Observation with 104 specialized tools and multi-modal analysis
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) (ACL 2024) - Multi-disciplinary collaboration framework for medical reasoning using role-playing LLM agents
 - [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) (2025.06) - Specialized training environment for biomedical AI agents with code-centric reasoning
@@ -343,6 +347,7 @@
 - [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
 - [Protenix](https://github.com/bytedance/Protenix) - Trainable PyTorch reproduction of AlphaFold 3
 - [Boltz](https://github.com/jwohlwend/boltz) - First fully open-source model achieving AlphaFold3-level accuracy with 1000x faster binding affinity prediction (MIT)
+- [xfold](https://github.com/Shenggan/xfold) - Democratizing AlphaFold3: PyTorch reimplementation to accelerate protein structure prediction research
 - [MegaFold](https://github.com/Supercomputing-System-AI-Lab/MegaFold/) - Cross-platform system optimizations for accelerating AlphaFold3 training with 1.73x speedup and 1.23x memory reduction
 - [Graphormer](https://github.com/microsoft/Graphormer) - General-purpose deep learning backbone for molecular modeling
 - [targetdiff](https://github.com/guanjq/targetdiff) - 3D Equivariant Diffusion for Target-Aware Molecule Generation (ICLR2023)
