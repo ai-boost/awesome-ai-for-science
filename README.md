@@ -373,6 +373,9 @@
 
 ### ⚛️ Chemistry & Materials
 
+#### LLM for Chemistry
+- [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry) - Curated paper list about LLMs for chemistry covering fine-tuning, reasoning, multi-modal models, agents, and benchmarks (COLING 2025)
+
 #### Materials Discovery
 - [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
 - [MatterSim](https://github.com/microsoft/mattersim) - Deep learning atomistic model across elements, temperatures, and pressures
