@@ -199,6 +199,7 @@
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
 - [InternAgent](https://github.com/Alpha-Innovator/InternAgent) - Closed-loop multi-agent system from hypothesis to verification across 12 scientific tasks, #1 on MLE-Bench (36.44%)
+- [freephdlabor](https://github.com/ltjed/freephdlabor) - First fully customizable open-source multiagent framework automating complete research lifecycle from idea conception to LaTeX papers with dynamic workflows
 - [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Democratizing AI scientists by transforming any LLM into research systems with 600+ scientific tools (Harvard MIMS)
 - [Aviary](https://github.com/Future-House/aviary) - Language agent gymnasium for challenging scientific tasks including DNA manipulation, literature search, and protein engineering
 - [Curie](https://github.com/Just-Curieous/Curie) - Automated and rigorous experiments using AI agents for scientific discovery
@@ -403,6 +404,7 @@
 ### 🌍 Earth & Climate Science
 
 #### Climate Modeling
+- [ClimaX](https://github.com/microsoft/ClimaX) - First foundation model for weather and climate by Microsoft, Vision Transformer-based architecture trained on heterogeneous datasets (ICML 2023)
 - [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
 - [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
 - [WeatherGFT](https://github.com/black-yt/WeatherGFT) - Physics-AI hybrid modeling for fine-grained weather forecasting (NeurIPS'24)
@@ -554,6 +556,7 @@ This project builds upon and complements several excellent resources:
 - [Awesome Scientific Machine Learning](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning) - Physics-informed ML and SciML
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
 - [Awesome LLM Agents Scientific Discovery](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) - Biomedical AI agents
+- [Awesome Foundation Models for Weather and Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) - Comprehensive survey of foundation models for weather and climate data understanding
 
 ### 📊 Paper & Research Collections
 - [Scientific LLM Papers](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - 260+ scientific language models
