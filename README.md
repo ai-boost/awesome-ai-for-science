@@ -362,6 +362,7 @@
 - [ESMFold](https://github.com/facebookresearch/esm) - Protein structure prediction from ESM models
 
 #### Genomics & Bioinformatics
+- [LucaOne](https://github.com/LucaOne/LucaOne) - Generalized biological foundation model with unified nucleic acid and protein language, integrating DNA/RNA/protein sequences (Nature Machine Intelligence 2025)
 - [scGPT](https://github.com/bowang-lab/scGPT) - Single-cell analysis with transformers
 - [Cell2Sentence](https://github.com/vandijklab/cell2sentence) - Teaching Large Language Models the Language of Biology through single-cell transcriptomics (ICML 2024)
 - [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) - Gene expression prediction
