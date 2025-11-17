@@ -183,6 +183,7 @@
 
 ### Knowledge Graph Construction
 - [iText2KG](https://github.com/AuvaLab/itext2kg) - Incremental knowledge graph construction using LLMs with entity extraction and Neo4j visualization
+- [GraphGen](https://github.com/open-sciencelab/GraphGen) - Knowledge graph-guided synthetic data generation for LLM fine-tuning, achieving strong performance on scientific QA (GPQA-Diamond) and math reasoning (AIME)
 - [KoPA](https://github.com/zjukg/KoPA) - Structure-aware prefix adaptation for integrating LLMs with knowledge graphs (ACM MM 2024)
 - [Scholarly KGQA](https://arxiv.org/abs/2311.09841) - LLM-powered question answering over scholarly knowledge graphs (ArXiv paper)
 
