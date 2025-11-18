@@ -198,6 +198,7 @@
 - [The AI Scientist v1 (2024)](https://arxiv.org/abs/2408.06292) - First fully autonomous research system: hypothesis→experiment→writing→review simulation
 - [The AI Scientist v2 (2025)](https://arxiv.org/abs/2504.08066) - Enhanced with Agentic Tree Search, reduced template dependency, first workshop-level accepted paper
 - [DeepScientist](https://github.com/ResearAI/DeepScientist) - First system progressively surpassing human SOTA on frontier AI tasks (183.7%, 1.9%, 7.9% improvements), month-long autonomous discovery with 20,000+ GPU hours
+- [Kosmos](https://github.com/jimmc414/Kosmos) - Extended autonomy AI scientist with 200 parallel agent rollouts, 42K lines of code execution, 1.5K papers analyzed per run, achieving 79.4% accuracy and 7 scientific discoveries (Edison Scientific)
 - [AlphaResearch](https://github.com/answers111/alpha-research) - Autonomous algorithm discovery combining evolutionary search with peer-review reward models, achieving best-known performance on circle packing problems
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
