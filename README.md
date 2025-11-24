@@ -361,6 +361,7 @@
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions) - Large-scale biomolecular instruction dataset for chemistry/biology LLMs (ICLR2024)
 - [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry) - Chemical language model
 - [DeepChem](https://github.com/deepchem/deepchem) - Machine learning for chemistry
+- [DeepMol](https://github.com/BioSystemsUM/DeepMol) - Unified ML/DL framework for drug discovery workflows, integrating RDKit, DeepChem, and scikit-learn with SHAP explainability
 - [RDKit](https://github.com/rdkit/rdkit) - Cheminformatics toolkit
 - [ESMFold](https://github.com/facebookresearch/esm) - Protein structure prediction from ESM models
 
