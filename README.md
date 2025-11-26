@@ -384,6 +384,7 @@
 - [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry) - Curated paper list about LLMs for chemistry covering fine-tuning, reasoning, multi-modal models, agents, and benchmarks (COLING 2025)
 
 #### Materials Discovery
+- [FAIRChem (OMat24)](https://github.com/FAIR-Chem/fairchem) - Meta's comprehensive ML ecosystem for materials/chemistry with 118M+ DFT calculations, EquiformerV2 models achieving top Matbench Discovery performance
 - [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
 - [MatterSim](https://github.com/microsoft/mattersim) - Deep learning atomistic model across elements, temperatures, and pressures
 - [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
