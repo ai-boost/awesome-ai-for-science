@@ -304,6 +304,7 @@
 
 #### Policy & Strategic Perspectives
 - [Artificial Intelligence for Science](https://www.csiro.au/-/media/d61/ai4science-report/ai-for-science-report-2022.pdf) (CSIRO 2022) - Landmark report analyzing AI adoption across 98% of scientific fields over 60 years
+- [AI for Science 2025](https://www.nature.com/articles/d42473-025-00161-3) (Fudan University & Nature 2025) - Comprehensive report on AI's transformative impact across 7 scientific fields, 28 research directions, and 90+ challenges
 - [AI in science evidence review](https://scientificadvice.eu/scientific-outputs/ai-in-science-evidence-review-report/) (European Scientific Advice 2024) - Policy-focused evidence review on AI's impact in research
 
 ### 🚀 AI Scientist & Autonomous Research (2024-2025 Breakthroughs)
