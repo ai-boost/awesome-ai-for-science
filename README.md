@@ -542,6 +542,7 @@
 - [NeurIPS](https://neurips.cc/) - Machine learning conference
 - [ICML](https://icml.cc/) - International Conference on Machine Learning
 - [AI for Science Workshop](https://ai4sciencecommunity.github.io/) - Specialized workshops
+- [AI Conference Deadline](https://www.aiconferenceddl.com/) - AI/ML conference deadline tracker
 
 ### Organizations
 - [Partnership on AI](https://partnershiponai.org/) - AI research collaboration
