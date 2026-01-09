@@ -76,6 +76,9 @@
 - [Label Studio](https://github.com/heartexlabs/label-studio) - Multi-type data labeling and annotation tool
 - [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision
 
+### Research Workbench & Plugins
+- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Comprehensive collection of 125+ ready-to-use scientific skill modules for Claude AI across bioinformatics, cheminformatics, clinical research, ML, and materials science
+
 ---
 
 ## 📄 Paper→Poster / Slides / Graphical Abstract
