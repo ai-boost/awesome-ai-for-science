@@ -38,14 +38,14 @@
 - [🔄 Paper-to-Code & Reproducibility](#-paper-to-code--reproducibility)
 - [📋 Scientific Documentation & Parsing](#-scientific-documentation--parsing)
 - [🧰 Research Workbench & Plugins](#-research-workbench--plugins)
-- [🕸️ Knowledge Extraction & Scholarly KGs](#-knowledge-extraction--scholarly-kgs)
+- [🕸 Knowledge Extraction & Scholarly KGs](#-knowledge-extraction--scholarly-kgs)
 - [🤖 Research Agents & Autonomous Workflows](#-research-agents--autonomous-workflows)
-- [🏷️ Data Labeling & Curation](#-data-labeling--curation)
-- [⚗️ Scientific Machine Learning](#-scientific-machine-learning)
+- [🏷 Data Labeling & Curation](#-data-labeling--curation)
+- [⚗ Scientific Machine Learning](#-scientific-machine-learning)
 - [📖 Papers & Reviews](#-papers--reviews)
 - [🔬 Domain-Specific Applications](#-domain-specific-applications)
   - [🧬 Biology & Medicine](#-biology--medicine)
-  - [⚛️ Chemistry & Materials](#-chemistry--materials)  
+  - [⚛ Chemistry & Materials](#-chemistry--materials)  
   - [🌌 Physics & Astronomy](#-physics--astronomy)
   - [🌍 Earth & Climate Science](#-earth--climate-science)
   - [🌾 Agriculture & Ecology](#-agriculture--ecology)
@@ -182,7 +182,7 @@
 
 ---
 
-## 🕸️ Knowledge Extraction & Scholarly KGs
+## 🕸 Knowledge Extraction & Scholarly KGs
 
 ### Knowledge Graph Construction
 - [iText2KG](https://github.com/AuvaLab/itext2kg) - Incremental knowledge graph construction using LLMs with entity extraction and Neo4j visualization
@@ -230,7 +230,7 @@
 
 ---
 
-## 🏷️ Data Labeling & Curation
+## 🏷 Data Labeling & Curation
 
 ### Weak Supervision & Auto-Labeling
 - [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision for scientific datasets
@@ -238,7 +238,7 @@
 
 ---
 
-## ⚗️ Scientific Machine Learning
+## ⚗ Scientific Machine Learning
 
 ### Neural Differential Equations
 - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - PyTorch implementation of neural ODEs
@@ -385,7 +385,7 @@
 - [MedAgents](https://github.com/gersteinlab/MedAgents) - Multi-disciplinary collaboration framework for zero-shot medical reasoning using role-playing LLM agents (ACL 2024)
 - [MedAgentGym](https://github.com/wshi83/MedAgentGym) - Scalable agentic training environment for code-centric reasoning in biomedical data science
 
-### ⚛️ Chemistry & Materials
+### ⚛ Chemistry & Materials
 
 #### LLM for Chemistry
 - [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry) - Curated paper list about LLMs for chemistry covering fine-tuning, reasoning, multi-modal models, agents, and benchmarks (COLING 2025)
