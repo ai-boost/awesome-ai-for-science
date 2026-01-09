@@ -618,4 +618,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: October 2025 - Enhanced with 2024-2025 breakthroughs in autonomous research, document parsing, and scientific agents*
+*Last updated: January 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, and scientific foundation models*
