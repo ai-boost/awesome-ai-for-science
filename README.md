@@ -133,6 +133,9 @@
 - [BioProBench](https://huggingface.co/datasets/GreatCaptainNemo/BioProBench) - Comprehensive benchmark for automatic evaluation of LLMs on biological protocols and procedural understanding
 - [Alhazen](https://chanzuckerberg.github.io/alhazen/) - Extract experimental metadata and protocol information from scientific documents
 
+### Consistency & Verification
+- [SciCoQA](https://arxiv.org/abs/2601.12910) - Dataset for evaluating models on detecting discrepancies between paper and code
+
 ---
 
 ## 📋 Scientific Documentation & Parsing
