@@ -420,6 +420,7 @@
 
 #### Climate Modeling
 - [ClimaX](https://github.com/microsoft/ClimaX) - First foundation model for weather and climate by Microsoft, Vision Transformer-based architecture trained on heterogeneous datasets (ICML 2023)
+- [NVIDIA Earth-2](https://github.com/NVIDIA/earth2studio) - World's first fully open, accelerated weather AI software stack with Medium Range forecasting and Nowcasting models using generative AI (January 2026)
 - [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
 - [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
 - [WeatherGFT](https://github.com/black-yt/WeatherGFT) - Physics-AI hybrid modeling for fine-grained weather forecasting (NeurIPS'24)
