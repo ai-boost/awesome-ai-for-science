@@ -505,6 +505,7 @@
 
 ### Specialized Frameworks
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Molecular dynamics analysis
+- [MDtrajNet](https://arxiv.org/abs/2505.16301) - Neural network foundation model that directly generates MD trajectories bypassing force calculations, accelerating simulations by up to 100× with equivariant Transformer architecture (2025)
 - [ASE](https://wiki.fysik.dtu.dk/ase/) - Atomic Simulation Environment for materials modeling
 - [PyMC](https://github.com/pymc-devs/pymc) - Probabilistic programming
 - [OpenMM](https://github.com/openmm/openmm) - High-performance molecular simulation toolkit
