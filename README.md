@@ -65,6 +65,7 @@
 - [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
 - [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
+- [Summarized.science](https://summarized.science) - Web-based platform providing monthly, AI-generated topic-focused summaries of recent peer-reviewed scientific literature
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
