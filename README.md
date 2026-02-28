@@ -385,6 +385,7 @@
 - [DNABERT](https://github.com/jerryji1993/DNABERT) - DNA sequence analysis
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT) - Single-cell BERT for gene expression
 - [GenePT](https://github.com/yiqunchen/GenePT) - Generative pre-training for genomics
+- [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code and Python. Parses raw genotyping data from consumer DNA services and analyzes SNPs across 17 categories including health risks, pharmacogenomics, ancestry, and nutrition, with a terminal-style HTML dashboard.
 
 #### Medical AI & Clinical Applications
 - [MedAgents](https://github.com/gersteinlab/MedAgents) - Multi-disciplinary collaboration framework for zero-shot medical reasoning using role-playing LLM agents (ACL 2024)
