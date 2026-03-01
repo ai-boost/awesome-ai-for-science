@@ -443,6 +443,7 @@
 #### Ecological Modeling
 - [BioSimulators](https://github.com/biosimulators/Biosimulators) - Biological simulation tools
 - [EcoNet](https://github.com/microsoft/EcoNet) - Ecological modeling and conservation AI
+- [iNaturalist Computer Vision](https://www.inaturalist.org/pages/computer_vision_demo) - Species identification model trained on 100M+ community observations across 76,000+ taxa. Used in biodiversity AI research and fine-grained recognition benchmarks.
 
 ---
 
