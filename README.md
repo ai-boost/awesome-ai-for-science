@@ -224,6 +224,7 @@
 - [LLM-Peer-Review](https://github.com/VijayGKR/LLM-Peer-Review) - Web application for LLM-assisted manuscript review and annotation
 
 ### Domain-Specific Research Agents
+- [Aletheia](https://arxiv.org/abs/2602.10177) - Google DeepMind's autonomous mathematics research agent powered by Gemini Deep Think, autonomously solving 4 open problems from 700 Erdős conjectures and generating complete research papers without human intervention (February 2026)
 - [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
 - [MOOSE](https://github.com/ZonglinY/MOOSE) - Large Language Models for automated open-domain scientific hypotheses discovery (ACL 2024, ICML Best Poster)
 - [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
