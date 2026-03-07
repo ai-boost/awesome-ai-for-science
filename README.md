@@ -148,6 +148,7 @@
 - [S2ORC doc2json (AllenAI)](https://github.com/allenai/s2orc-doc2json) - Large-scale PDF/LaTeX/JATS parsing to standardized JSON for millions of papers
 - [GROBID](https://github.com/kermitt2/grobid) - Machine learning software for extracting structured metadata from scholarly documents
 - [Science-Parse / SPv2 (AllenAI)](https://github.com/allenai/science-parse) - Parse scientific papers to structured fields (title/author/sections/references)
+- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Framework for debugging RAG and LLM pipelines
 
 ### Production Pipelines & Data Preparation
 - [IBM Data Prep Kit: PDF→Parquet](https://ibm.github.io/data-prep-kit/transforms/language/pdf2parquet/) - Large-scale scientific document ingestion pipeline with optimization configurations
