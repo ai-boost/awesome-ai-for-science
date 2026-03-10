@@ -212,6 +212,7 @@
 - [Aviary](https://github.com/Future-House/aviary) - Language agent gymnasium for challenging scientific tasks including DNA manipulation, literature search, and protein engineering
 - [Curie](https://github.com/Just-Curieous/Curie) - Automated and rigorous experiments using AI agents for scientific discovery
 - [POPPER](https://github.com/snap-stanford/POPPER) - Automated hypothesis testing with agentic sequential falsifications
+- [autoresearch](https://github.com/karpathy/autoresearch) - Andrej Karpathy's autonomous LLM research framework: AI agent runs overnight experiments on a real training setup, auto-editing code→5min training→evaluation in a loop, ~100 experiments per night on a single GPU
 - [UniScientist](https://github.com/UniPat-AI/UniScientist) - Universal scientific research intelligence covering 50+ disciplines, repositioning LLMs as cross-disciplinary generators with human experts as verifiers; 30B model outperforms Claude Opus and GPT on 5 research benchmarks
 
 ### Evaluation & Benchmarking
