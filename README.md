@@ -209,6 +209,7 @@
 - [InternAgent](https://github.com/Alpha-Innovator/InternAgent) - Closed-loop multi-agent system from hypothesis to verification across 12 scientific tasks, #1 on MLE-Bench (36.44%)
 - [freephdlabor](https://github.com/ltjed/freephdlabor) - First fully customizable open-source multiagent framework automating complete research lifecycle from idea conception to LaTeX papers with dynamic workflows
 - [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) - Democratizing AI scientists by transforming any LLM into research systems with 600+ scientific tools (Harvard MIMS)
+- [LabClaw](https://github.com/wu-yc/LabClaw) - Skill operating layer for biomedical AI agents with 211 production-ready SKILL.md files across 7 domains (biology, pharmacology, medicine, data science, literature search), enabling modular dry-lab reasoning and protocol composition for Stanford LabOS-compatible agents
 - [Aviary](https://github.com/Future-House/aviary) - Language agent gymnasium for challenging scientific tasks including DNA manipulation, literature search, and protein engineering
 - [Curie](https://github.com/Just-Curieous/Curie) - Automated and rigorous experiments using AI agents for scientific discovery
 - [POPPER](https://github.com/snap-stanford/POPPER) - Automated hypothesis testing with agentic sequential falsifications
