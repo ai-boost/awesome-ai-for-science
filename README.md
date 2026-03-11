@@ -65,6 +65,7 @@
 - [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
 - [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
+- [MetaReview](https://metareview-8c1.pages.dev/) - Free AI-powered meta-analysis platform using Llama 3.1 for automated literature screening and PDF data extraction, with 120+ statistical features including forest plots, funnel plots, and meta-regression
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
