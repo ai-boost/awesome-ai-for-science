@@ -61,6 +61,7 @@
 ## 🧪 AI Tools for Research
 
 ### Literature & Knowledge Management
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching scientific papers with structured experimental data from full-text studies (methods, results, sample sizes, quality scores). Free tier available
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search (Allen AI)
 - [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
 - [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
