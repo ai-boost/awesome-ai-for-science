@@ -65,6 +65,7 @@
 - [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
 - [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
+- [CiteMe](https://citeme.app/) - AI-powered academic citation generator that searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, SciELO, etc.) and formats references in 40+ citation styles
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
