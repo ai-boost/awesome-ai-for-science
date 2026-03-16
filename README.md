@@ -363,6 +363,7 @@
 - [AlphaFold](https://github.com/google-deepmind/alphafold) - Protein structure prediction
 - [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
 - [Protenix](https://github.com/bytedance/Protenix) - Trainable PyTorch reproduction of AlphaFold 3
+- [Chai-1](https://github.com/chaidiscovery/chai-lab) - Multi-modal foundation model for biomolecular structure prediction (proteins, small molecules, DNA, RNA, glycans) achieving SOTA across benchmarks, with optional MSA/template support (Chai Discovery, 2024)
 - [Boltz](https://github.com/jwohlwend/boltz) - First fully open-source model achieving AlphaFold3-level accuracy with 1000x faster binding affinity prediction (MIT)
 - [BoltzGen](https://arxiv.org/abs/2511.18345) - De novo protein binder design via generative model, achieving nanomolar binding for 66% of novel targets tested (MIT, 2025)
 - [xfold](https://github.com/Shenggan/xfold) - Democratizing AlphaFold3: PyTorch reimplementation to accelerate protein structure prediction research
