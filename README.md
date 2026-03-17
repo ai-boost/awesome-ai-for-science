@@ -369,6 +369,7 @@
 - [xfold](https://github.com/Shenggan/xfold) - Democratizing AlphaFold3: PyTorch reimplementation to accelerate protein structure prediction research
 - [MegaFold](https://github.com/Supercomputing-System-AI-Lab/MegaFold/) - Cross-platform system optimizations for accelerating AlphaFold3 training with 1.73x speedup and 1.23x memory reduction
 - [Graphormer](https://github.com/microsoft/Graphormer) - General-purpose deep learning backbone for molecular modeling
+- [DiffDock](https://github.com/gcorso/DiffDock) - Diffusion-based molecular docking achieving SOTA blind docking performance, treating ligand pose prediction as generative diffusion over SE(3), with DiffDock-L update for improved generalization (MIT CSAIL, ICLR 2023)
 - [targetdiff](https://github.com/guanjq/targetdiff) - 3D Equivariant Diffusion for Target-Aware Molecule Generation (ICLR2023)
 - [ReQFlow](https://github.com/AngxiaoYue/ReQFlow) - Rectified Quaternion Flow for efficient protein backbone generation, 37× faster than RFDiffusion with 0.972 designability (ICML 2025)
 - [RFdiffusion3](https://github.com/RosettaCommons/RFdiffusion) - Latest RFdiffusion for protein structure design with 10× speedup and atom-level precision (December 2025)
