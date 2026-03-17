@@ -463,6 +463,7 @@
 
 ### Domain-Specific Models
 - [ESM](https://github.com/facebookresearch/esm) - Protein language models
+- [BioNeMo Framework](https://github.com/NVIDIA/bionemo-framework) - NVIDIA's open-source platform for building and adapting biological AI models at scale, bundling ESM-2, Geneformer, MolMIM and DNA embedding models with recipes for single-GPU to multi-node training (2025)
 - [ChemGPT](https://huggingface.co/ncfrey/ChemGPT-1.2B) - Chemistry-focused language model
 - [BioGPT](https://github.com/microsoft/BioGPT) - Biomedical text generation
 
