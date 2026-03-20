@@ -266,6 +266,7 @@
 ### Neural Operators & Model Discovery
 - [DeepONet](https://github.com/lululxvi/deeponet) - Learning nonlinear operators
 - [PySINDy](https://github.com/dynamicslab/pysindy) - Sparse identification of nonlinear dynamics
+- [PySR](https://github.com/MilesCranmer/PySR) - High-performance symbolic regression for discovering interpretable scientific equations from data, multi-population evolutionary search with Python/Julia backend, widely used in physics and astronomy (Cambridge, NeurIPS 2023)
 - [LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR) - Scientific equation discovery and symbolic regression using LLMs, combining code generation with evolutionary search (ICLR 2025 Oral)
 - [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) - Learning operators in Fourier space
 
