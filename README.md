@@ -389,6 +389,7 @@
 #### Genomics & Bioinformatics
 - [Evo 2](https://github.com/ArcInstitute/evo2) - Arc Institute's 40B-parameter genome foundation model trained on 9 trillion nucleotides from all domains of life, supporting 1M base pair context for generalist DNA/RNA/protein prediction and design (Nature 2026)
 - [LucaOne](https://github.com/LucaOne/LucaOne) - Generalized biological foundation model with unified nucleic acid and protein language, integrating DNA/RNA/protein sequences (Nature Machine Intelligence 2025)
+- [scFoundation](https://github.com/biomap-research/scFoundation) - 100M-parameter foundation model pretrained on 50M+ human single-cell transcriptomes covering ~20,000 genes, achieving SOTA on gene expression enhancement, drug response and perturbation prediction (Nature Methods 2024)
 - [scGPT](https://github.com/bowang-lab/scGPT) - Single-cell analysis with transformers
 - [Cell2Sentence](https://github.com/vandijklab/cell2sentence) - Teaching Large Language Models the Language of Biology through single-cell transcriptomics (ICML 2024)
 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language, integrating 60+ methods including SpaGCN, Cell2location, LIANA+, CellRank for Visium, Xenium, MERFISH platforms
