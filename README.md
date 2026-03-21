@@ -380,6 +380,7 @@
 - [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
 - [mint](https://github.com/VarunUllanat/mint) - Learning the language of protein-protein interactions
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions) - Large-scale biomolecular instruction dataset for chemistry/biology LLMs (ICLR2024)
+- [Uni-Mol](https://github.com/deepmodeling/Uni-Mol) - Universal 3D molecular pretraining framework with 209M conformations, scaling to 1.1B parameters (Uni-Mol2) on 800M conformations for molecular property prediction, docking, and quantum chemistry (ICLR 2023, NeurIPS 2024)
 - [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry) - Chemical language model
 - [DeepChem](https://github.com/deepchem/deepchem) - Machine learning for chemistry
 - [DeepMol](https://github.com/BioSystemsUM/DeepMol) - Unified ML/DL framework for drug discovery workflows, integrating RDKit, DeepChem, and scikit-learn with SHAP explainability
