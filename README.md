@@ -418,6 +418,7 @@
 - [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) - Curated list of atomistic ML projects for materials science
 
 #### Chemical Synthesis
+- [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - AstraZeneca's industrial-grade retrosynthetic planning tool using MCTS to recursively decompose molecules into purchasable precursors, with multi-step route scoring and support for custom one-step models (v4.0, 2024)
 - [Molecular Transformers](https://github.com/pschwllr/MolecularTransformer) - AI for chemical reaction prediction and synthesis planning
 
 ### 🌌 Physics & Astronomy
