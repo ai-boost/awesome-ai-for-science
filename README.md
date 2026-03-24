@@ -414,6 +414,7 @@
 #### Materials Discovery
 - [FAIRChem (OMat24)](https://github.com/FAIR-Chem/fairchem) - Meta's comprehensive ML ecosystem for materials/chemistry with 118M+ DFT calculations, EquiformerV2 models achieving top Matbench Discovery performance
 - [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
+- [CHGNet](https://github.com/CederGroupHub/chgnet) - Universal pretrained neural network potential with charge and magnetic moment awareness, trained on 1.5M+ Materials Project inorganic structures for charge-informed molecular dynamics and phase diagram prediction (Berkeley, Nature Machine Intelligence 2023 Cover)
 - [MatterSim](https://github.com/microsoft/mattersim) - Deep learning atomistic model across elements, temperatures, and pressures
 - [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
 - [MatBench](https://github.com/materialsproject/matbench) - Materials informatics benchmark
