@@ -468,6 +468,7 @@
 
 ### General Science Models
 - [Galactica](https://github.com/paperswithcode/galai) - Large language model for science
+- [Llemma](https://github.com/EleutherAI/math-lm) - Open language model for mathematics (7B/34B) trained on Proof-Pile-2, outperforming Minerva at equal scale on MATH benchmark, with tool use and formal theorem proving in Lean without finetuning (EleutherAI, ICLR 2024)
 - [MinervaAI](https://github.com/google-research/minerva) - Mathematical reasoning
 - [PaLM-2](https://ai.google/discover/palm2) - Scientific reasoning capabilities
 
