@@ -390,6 +390,7 @@
 - [ESMFold](https://github.com/facebookresearch/esm) - Protein structure prediction from ESM models
 
 #### Genomics & Bioinformatics
+- [RhoFold+](https://github.com/ml4bio/RhoFold) - End-to-end RNA 3D structure prediction using RNA language model pretrained on 23.7M sequences, outperforming existing methods and human expert groups on RNA-Puzzles and CASP15 (Nature Methods 2024)
 - [Evo 2](https://github.com/ArcInstitute/evo2) - Arc Institute's 40B-parameter genome foundation model trained on 9 trillion nucleotides from all domains of life, supporting 1M base pair context for generalist DNA/RNA/protein prediction and design (Nature 2026)
 - [LucaOne](https://github.com/LucaOne/LucaOne) - Generalized biological foundation model with unified nucleic acid and protein language, integrating DNA/RNA/protein sequences (Nature Machine Intelligence 2025)
 - [scFoundation](https://github.com/biomap-research/scFoundation) - 100M-parameter foundation model pretrained on 50M+ human single-cell transcriptomes covering ~20,000 genes, achieving SOTA on gene expression enhancement, drug response and perturbation prediction (Nature Methods 2024)
