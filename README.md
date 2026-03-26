@@ -269,6 +269,8 @@
 - [PySR](https://github.com/MilesCranmer/PySR) - High-performance symbolic regression for discovering interpretable scientific equations from data, multi-population evolutionary search with Python/Julia backend, widely used in physics and astronomy (Cambridge, NeurIPS 2023)
 - [LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR) - Scientific equation discovery and symbolic regression using LLMs, combining code generation with evolutionary search (ICLR 2025 Oral)
 - [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) - Learning operators in Fourier space
+- [TECS-L](https://github.com/need-singularity/TECS-L) - Mathematical framework unifying number theory and neural architecture design, proving optimal MoE inhibition at I≈1/e with 194 formally proved hypotheses covering golden-zone sparsity bounds
+- [PH Training](https://github.com/need-singularity/ph-training) - Persistent Homology-based training monitor using topological data analysis to detect overfitting earlier than traditional loss curves
 
 ---
 
