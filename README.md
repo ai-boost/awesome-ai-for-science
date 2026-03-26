@@ -378,6 +378,7 @@
 - [ReQFlow](https://github.com/AngxiaoYue/ReQFlow) - Rectified Quaternion Flow for efficient protein backbone generation, 37× faster than RFDiffusion with 0.972 designability (ICML 2025)
 - [BioEmu](https://github.com/microsoft/bioemu) - Microsoft's generative model for sampling protein equilibrium conformations 100,000× faster than MD simulations, predicting domain motions, local unfolding and cryptic binding pockets on a single GPU (Science 2025)
 - [RFdiffusion3](https://github.com/RosettaCommons/RFdiffusion) - Latest RFdiffusion for protein structure design with 10× speedup and atom-level precision (December 2025)
+- [IgGM](https://github.com/TencentAI4S/IgGM) - Generative foundation model for functional antibody and nanobody design, supporting de novo generation, affinity maturation, inverse design, structure prediction, and humanization (Tencent AI4S, ICLR 2025)
 - [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
 - [mint](https://github.com/VarunUllanat/mint) - Learning the language of protein-protein interactions
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions) - Large-scale biomolecular instruction dataset for chemistry/biology LLMs (ICLR2024)
