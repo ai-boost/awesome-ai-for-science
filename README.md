@@ -216,6 +216,7 @@
 - [POPPER](https://github.com/snap-stanford/POPPER) - Automated hypothesis testing with agentic sequential falsifications
 - [autoresearch](https://github.com/karpathy/autoresearch) - Andrej Karpathy's autonomous LLM research framework: AI agent runs overnight experiments on a real training setup, auto-editing code→5min training→evaluation in a loop, ~100 experiments per night on a single GPU
 - [UniScientist](https://github.com/UniPat-AI/UniScientist) - Universal scientific research intelligence covering 50+ disciplines, repositioning LLMs as cross-disciplinary generators with human experts as verifiers; 30B model outperforms Claude Opus and GPT on 5 research benchmarks
+- [AIDE](https://github.com/WecoAI/aideml) - Open-source ML engineering agent that uses tree search to explore solution spaces. Automates ML experimentation.
 
 ### Evaluation & Benchmarking
 - [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
