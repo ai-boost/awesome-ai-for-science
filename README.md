@@ -429,6 +429,7 @@
 ### 🌌 Physics & Astronomy
 
 #### Machine Learning for Physics
+- [FermiNet](https://github.com/google-deepmind/ferminet) - DeepMind's neural network for ab-initio quantum chemistry, directly solving the many-electron Schrödinger equation via variational Monte Carlo with antisymmetric wavefunctions, extended to excited states (Phys. Rev. Research 2020, Science 2024)
 - [JAX-MD](https://github.com/jax-md/jax-md) - Molecular dynamics in JAX
 - [Neural ODEs](https://github.com/rtqichen/torchdiffeq) - Differential equations with neural networks
 - [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
