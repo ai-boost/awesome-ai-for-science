@@ -229,6 +229,7 @@
 
 ### Domain-Specific Research Agents
 - [Aletheia](https://arxiv.org/abs/2602.10177) - Google DeepMind's autonomous mathematics research agent powered by Gemini Deep Think, autonomously solving 4 open problems from 700 Erdős conjectures and generating complete research papers without human intervention (February 2026)
+- [AlphaGeometry](https://github.com/google-deepmind/alphageometry) - DeepMind's Olympiad-level geometry theorem prover combining neural language model with symbolic deduction engine, AlphaGeometry2 solves 84% of IMO geometry problems (42/50) at gold-medalist level (Nature 2024)
 - [Goedel-Prover-V2](https://github.com/Goedel-LM/Goedel-Prover-V2) - Strongest open-source automated theorem prover in Lean 4, 8B model matches DeepSeek-Prover-V2-671B at 84.6% MiniF2F, 32B model achieves 90.4% with self-correction, using scaffolded data synthesis and verifier-guided proof refinement (Princeton, 2025)
 - [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
 - [MOOSE](https://github.com/ZonglinY/MOOSE) - Large Language Models for automated open-domain scientific hypotheses discovery (ACL 2024, ICML Best Poster)
