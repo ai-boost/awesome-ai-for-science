@@ -256,6 +256,7 @@
 - [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Neural differential equations in Julia
 
 ### Physics-Informed Neural Networks
+- [AutoNumerics](https://arxiv.org/abs/2602.17607) - Multi-agent LLM pipeline that writes classical numerical PDE solvers from natural-language descriptions and verifies them via PDE residuals, reaching ~6 orders of magnitude lower nRMSE than FNO and CodePDE baselines
 - [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving PDEs
 - [Lang-PINN](https://openreview.net/forum?id=ONEyVpgK34) - LLM-driven multi-agent system that builds trainable PINNs from natural language task descriptions, achieving 3-5 orders of magnitude MSE reduction and 50%+ execution success improvement (ICLR 2026)
 - [PINNs](https://github.com/maziarraissi/PINNs) - Physics-informed neural networks
