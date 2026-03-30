@@ -453,6 +453,7 @@
 - [ClimaX](https://github.com/microsoft/ClimaX) - First foundation model for weather and climate by Microsoft, Vision Transformer-based architecture trained on heterogeneous datasets (ICML 2023)
 - [NeuralGCM](https://github.com/neuralgcm/neuralgcm) - Google Research's hybrid ML/physics atmospheric model combining learned dynamics with physical constraints, outperforming traditional models on 2-15 day forecasts and 40-year climate simulation, developed with ECMWF (Nature 2024)
 - [NVIDIA Earth-2](https://github.com/NVIDIA/earth2studio) - World's first fully open, accelerated weather AI software stack with Medium Range forecasting and Nowcasting models using generative AI (January 2026)
+- [Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - Huawei's 3D high-resolution global weather forecast model at 0.25° resolution, first AI method to comprehensively outperform traditional NWP across all variables and lead times, integrated into ECMWF operational forecasts (Nature 2023)
 - [Prithvi WxC](https://huggingface.co/ibm/prithvi-wxc) - IBM-NASA open-source 2.3B parameter weather and climate foundation model trained on 160 MERRA-2 variables, runs on desktop with fine-tuned variants for climate downscaling and gravity wave parameterization
 - [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
 - [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
