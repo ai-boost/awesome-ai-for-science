@@ -221,6 +221,7 @@
 - [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
 - [BuildArena](https://github.com/AI4Science-WestlakeU/BuildArena) - First physics-aligned interactive benchmark for LLM agents in engineering construction, designing rockets/cars/bridges in physics simulator with 3D spatial geometry library
 - [SciTrust (2024)](https://impact.ornl.gov/en/publications/scitrust-evaluating-the-trustworthiness-of-large-language-models-) - Trustworthiness evaluation framework for scientific LLMs (truthfulness, hallucination, sycophancy)
+- [SciCode](https://github.com/scicode-bench/SciCode) - Research coding benchmark curated by scientists with 338 subproblems across 16 subdomains (physics, math, materials, biology, chemistry), evaluating LLMs on realistic scientific programming tasks with gold-standard solutions (NeurIPS 2024)
 - [SciBench](https://arxiv.org/abs/2307.10635) - College-level scientific problem-solving evaluation across multiple domains
 
 ### Academic Review & Evaluation
