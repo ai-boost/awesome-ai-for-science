@@ -379,6 +379,7 @@
 - [targetdiff](https://github.com/guanjq/targetdiff) - 3D Equivariant Diffusion for Target-Aware Molecule Generation (ICLR2023)
 - [ReQFlow](https://github.com/AngxiaoYue/ReQFlow) - Rectified Quaternion Flow for efficient protein backbone generation, 37× faster than RFDiffusion with 0.972 designability (ICML 2025)
 - [BioEmu](https://github.com/microsoft/bioemu) - Microsoft's generative model for sampling protein equilibrium conformations 100,000× faster than MD simulations, predicting domain motions, local unfolding and cryptic binding pockets on a single GPU (Science 2025)
+- [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - Deep learning-based protein sequence design (inverse folding) from backbone structures, achieving 52.4% sequence recovery vs 32.9% for Rosetta, core tool in modern protein design pipelines (Baker Lab, Science 2022)
 - [RFdiffusion3](https://github.com/RosettaCommons/RFdiffusion) - Latest RFdiffusion for protein structure design with 10× speedup and atom-level precision (December 2025)
 - [IgGM](https://github.com/TencentAI4S/IgGM) - Generative foundation model for functional antibody and nanobody design, supporting de novo generation, affinity maturation, inverse design, structure prediction, and humanization (Tencent AI4S, ICLR 2025)
 - [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
