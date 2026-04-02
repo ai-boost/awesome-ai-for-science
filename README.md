@@ -500,6 +500,7 @@
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - Find scientific datasets
 
 ### Biology & Medicine
+- [TDC](https://github.com/mims-harvard/TDC) - Therapeutics Data Commons: 66 AI-ready datasets across 22 drug discovery tasks with 29 leaderboards, covering target identification, molecular generation, ADMET prediction, and clinical trial outcomes (Harvard MIMS, NeurIPS 2021/2024)
 - [Protein Data Bank](https://www.rcsb.org/) - Protein structures
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Chemical bioactivity data
 - [Human Protein Atlas](https://www.proteinatlas.org/) - Protein expression data
