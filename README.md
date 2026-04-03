@@ -409,6 +409,7 @@
 - [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code and Python. Parses raw genotyping data from consumer DNA services and analyzes SNPs across 17 categories including health risks, pharmacogenomics, ancestry, and nutrition, with a terminal-style HTML dashboard.
 
 #### Medical AI & Clinical Applications
+- [Cellpose](https://github.com/MouseLand/cellpose) - Generalist deep learning algorithm for cell and nucleus segmentation across diverse image types, with human-in-the-loop training (2.0) and one-click image restoration (3.0), 70K+ training objects (Nature Methods 2021/2022/2025)
 - [MedSAM](https://github.com/bowang-lab/MedSAM) - Universal medical image segmentation foundation model trained on 1.57M image-mask pairs across 10 imaging modalities and 30+ cancer types, with MedSAM2 extending to 3D and video segmentation (Nature Communications 2024)
 - [MedAgents](https://github.com/gersteinlab/MedAgents) - Multi-disciplinary collaboration framework for zero-shot medical reasoning using role-playing LLM agents (ACL 2024)
 - [MedAgentGym](https://github.com/wshi83/MedAgentGym) - Scalable agentic training environment for code-centric reasoning in biomedical data science
