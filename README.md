@@ -426,6 +426,7 @@
 - [FAIRChem (OMat24)](https://github.com/FAIR-Chem/fairchem) - Meta's comprehensive ML ecosystem for materials/chemistry with 118M+ DFT calculations, EquiformerV2 models achieving top Matbench Discovery performance
 - [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
 - [CHGNet](https://github.com/CederGroupHub/chgnet) - Universal pretrained neural network potential with charge and magnetic moment awareness, trained on 1.5M+ Materials Project inorganic structures for charge-informed molecular dynamics and phase diagram prediction (Berkeley, Nature Machine Intelligence 2023 Cover)
+- [MatterGen](https://github.com/microsoft/mattergen) - Diffusion-based generative model for inorganic materials design, steering generation by chemistry, symmetry, bulk modulus, band gap, or magnetic properties, 2× more likely to produce stable novel structures than prior methods, experimentally validated with synthesized TaCr₂O₆ (Microsoft, Nature 2025)
 - [MatterSim](https://github.com/microsoft/mattersim) - Deep learning atomistic model across elements, temperatures, and pressures
 - [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
 - [MatBench](https://github.com/materialsproject/matbench) - Materials informatics benchmark
