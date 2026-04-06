@@ -370,6 +370,7 @@
 - [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
 - [OpenFold3](https://github.com/aqlaboratory/openfold-3) - Fully open-source (Apache 2.0) biomolecular structure prediction reproducing AlphaFold3, free for academic and commercial use (Columbia AlQuraishi Lab & OpenFold Consortium, 2025)
 - [Protenix](https://github.com/bytedance/Protenix) - Trainable PyTorch reproduction of AlphaFold 3
+- [RoseTTAFold-All-Atom](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) - All-atom biomolecular structure prediction for protein-nucleic acid-small molecule-metal ion complexes, enabling accurate modeling of covalent modifications and assemblies beyond proteins (Baker Lab, Science 2024)
 - [Chai-1](https://github.com/chaidiscovery/chai-lab) - Multi-modal foundation model for biomolecular structure prediction (proteins, small molecules, DNA, RNA, glycans) achieving SOTA across benchmarks, with optional MSA/template support (Chai Discovery, 2024)
 - [Boltz](https://github.com/jwohlwend/boltz) - First fully open-source model achieving AlphaFold3-level accuracy with 1000x faster binding affinity prediction (MIT)
 - [BoltzGen](https://arxiv.org/abs/2511.18345) - De novo protein binder design via generative model, achieving nanomolar binding for 66% of novel targets tested (MIT, 2025)
