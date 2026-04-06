@@ -60,6 +60,7 @@
 
 ## 🧪 AI Tools for Research
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with automated task delegation. MIT licensed.
 ### Literature & Knowledge Management
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search (Allen AI)
 - [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
