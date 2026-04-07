@@ -554,6 +554,7 @@
 - [ASE](https://wiki.fysik.dtu.dk/ase/) - Atomic Simulation Environment for materials modeling
 - [PyMC](https://github.com/pymc-devs/pymc) - Probabilistic programming
 - [OpenMM](https://github.com/openmm/openmm) - High-performance molecular simulation toolkit
+- [Newton](https://github.com/newton-physics/newton) - GPU-accelerated differentiable physics simulation engine built on NVIDIA Warp, supporting rigid/soft body, cloth, and gradient-based optimization for scientific ML, initiated by Disney Research, DeepMind, and NVIDIA (Linux Foundation, Apache 2.0, 2025)
 
 ---
 
