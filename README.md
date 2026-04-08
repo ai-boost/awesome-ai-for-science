@@ -427,6 +427,7 @@
 #### Materials Discovery
 - [GNoME](https://github.com/google-deepmind/materials_discovery) - DeepMind's graph neural network for materials exploration, discovering 2.2M new crystal structures (380K most stable) equivalent to 800 years of traditional research, with 520K+ materials dataset open-sourced (Nature 2023)
 - [FAIRChem (OMat24)](https://github.com/FAIR-Chem/fairchem) - Meta's comprehensive ML ecosystem for materials/chemistry with 118M+ DFT calculations, EquiformerV2 models achieving top Matbench Discovery performance
+- [NequIP](https://github.com/mir-group/nequip) - E(3)-equivariant neural network interatomic potentials achieving DFT accuracy with up to 1000× less training data than invariant models, foundational architecture behind MACE and Allegro (Harvard, MIT, Nature Communications 2022)
 - [MACE](https://github.com/ACEsuit/mace) - Machine learning interatomic potentials
 - [CHGNet](https://github.com/CederGroupHub/chgnet) - Universal pretrained neural network potential with charge and magnetic moment awareness, trained on 1.5M+ Materials Project inorganic structures for charge-informed molecular dynamics and phase diagram prediction (Berkeley, Nature Machine Intelligence 2023 Cover)
 - [MatterGen](https://github.com/microsoft/mattergen) - Diffusion-based generative model for inorganic materials design, steering generation by chemistry, symmetry, bulk modulus, band gap, or magnetic properties, 2× more likely to produce stable novel structures than prior methods, experimentally validated with synthesized TaCr₂O₆ (Microsoft, Nature 2025)
