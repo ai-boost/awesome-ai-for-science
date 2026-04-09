@@ -272,6 +272,7 @@
 - [PySR](https://github.com/MilesCranmer/PySR) - High-performance symbolic regression for discovering interpretable scientific equations from data, multi-population evolutionary search with Python/Julia backend, widely used in physics and astronomy (Cambridge, NeurIPS 2023)
 - [LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR) - Scientific equation discovery and symbolic regression using LLMs, combining code generation with evolutionary search (ICLR 2025 Oral)
 - [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) - Learning operators in Fourier space
+- [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Differentiable PDE solving framework for machine learning with built-in fluid simulation, supporting PyTorch/JAX/TensorFlow backends and enabling neural network training within physical simulations (TUM, MIT License)
 
 ---
 
