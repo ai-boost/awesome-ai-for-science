@@ -406,6 +406,7 @@
 - [GEARS](https://github.com/snap-stanford/GEARS) - Geometric deep learning model predicting transcriptional outcomes of novel single- and multi-gene perturbations using gene–gene knowledge graphs, 40% higher precision than prior methods on combinatorial perturbation prediction (Stanford, Nature Biotechnology 2024)
 - [scGPT](https://github.com/bowang-lab/scGPT) - Single-cell analysis with transformers
 - [Cell2Sentence](https://github.com/vandijklab/cell2sentence) - Teaching Large Language Models the Language of Biology through single-cell transcriptomics (ICML 2024)
+- [OmicVerse](https://github.com/Starlitnightly/omicverse) - Unified Python framework for bulk, single-cell, and spatial RNA-seq multi-omics analysis with deep learning deconvolution (VAE) and graph neural networks, bridging Bindea, Bindea, scanpy and squidpy ecosystems (Nature Communications 2024)
 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language, integrating 60+ methods including SpaGCN, Cell2location, LIANA+, CellRank for Visium, Xenium, MERFISH platforms
 - [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) - Gene expression prediction
 - [DNABERT](https://github.com/jerryji1993/DNABERT) - DNA sequence analysis
