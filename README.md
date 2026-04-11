@@ -556,6 +556,7 @@
 - [MDtrajNet](https://arxiv.org/abs/2505.16301) - Neural network foundation model that directly generates MD trajectories bypassing force calculations, accelerating simulations by up to 100× with equivariant Transformer architecture (2025)
 - [ASE](https://wiki.fysik.dtu.dk/ase/) - Atomic Simulation Environment for materials modeling
 - [PyMC](https://github.com/pymc-devs/pymc) - Probabilistic programming
+- [AI2BMD](https://github.com/microsoft/AI2BMD) - Microsoft's AI-powered ab initio biomolecular dynamics simulation achieving quantum-mechanical accuracy for proteins with 10,000+ atoms, orders of magnitude faster than DFT using protein fragmentation and ML force fields (Nature 2024)
 - [OpenMM](https://github.com/openmm/openmm) - High-performance molecular simulation toolkit
 - [Newton](https://github.com/newton-physics/newton) - GPU-accelerated differentiable physics simulation engine built on NVIDIA Warp, supporting rigid/soft body, cloth, and gradient-based optimization for scientific ML, initiated by Disney Research, DeepMind, and NVIDIA (Linux Foundation, Apache 2.0, 2025)
 
