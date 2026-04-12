@@ -491,6 +491,7 @@
 
 ### General Science Models
 - [Galactica](https://github.com/paperswithcode/galai) - Large language model for science
+- [Intern-S1](https://github.com/InternLM/Intern-S1) - Open-source scientific multimodal foundation model built on a 235B MoE LLM and 6B vision encoder, continually pretrained on 5T tokens including 2.5T scientific-domain tokens, with strong results across chemistry, materials, life science, and earth science benchmarks (2025)
 - [Llemma](https://github.com/EleutherAI/math-lm) - Open language model for mathematics (7B/34B) trained on Proof-Pile-2, outperforming Minerva at equal scale on MATH benchmark, with tool use and formal theorem proving in Lean without finetuning (EleutherAI, ICLR 2024)
 - [MinervaAI](https://github.com/google-research/minerva) - Mathematical reasoning
 - [PaLM-2](https://ai.google/discover/palm2) - Scientific reasoning capabilities
