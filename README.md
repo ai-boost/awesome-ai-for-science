@@ -399,6 +399,7 @@
 
 #### Genomics & Bioinformatics
 - [RhoFold+](https://github.com/ml4bio/RhoFold) - End-to-end RNA 3D structure prediction using RNA language model pretrained on 23.7M sequences, outperforming existing methods and human expert groups on RNA-Puzzles and CASP15 (Nature Methods 2024)
+- [AIDO.ModelGenerator](https://github.com/genbio-ai/ModelGenerator) - GenBio AI's software stack for the AI-Driven Digital Organism, supporting adaptation and finetuning of multiscale biological foundation models across DNA, RNA, protein, structure, and single-cell tasks with reproducible CLIs and pretrained model zoo (2025)
 - [Evo 2](https://github.com/ArcInstitute/evo2) - Arc Institute's 40B-parameter genome foundation model trained on 9 trillion nucleotides from all domains of life, supporting 1M base pair context for generalist DNA/RNA/protein prediction and design (Nature 2026)
 - [LucaOne](https://github.com/LucaOne/LucaOne) - Generalized biological foundation model with unified nucleic acid and protein language, integrating DNA/RNA/protein sequences (Nature Machine Intelligence 2025)
 - [Geneformer](https://github.com/lcrawlab/Geneformer) - Single-cell transformer foundation model pretrained on 104M human transcriptomes via masked gene prediction, enabling transfer learning for cell type classification, gene network analysis, and in silico perturbation with limited labeled data (Nature 2023, V2 2024)
