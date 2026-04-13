@@ -421,6 +421,7 @@
 - [MedSAM](https://github.com/bowang-lab/MedSAM) - Universal medical image segmentation foundation model trained on 1.57M image-mask pairs across 10 imaging modalities and 30+ cancer types, with MedSAM2 extending to 3D and video segmentation (Nature Communications 2024)
 - [MedAgents](https://github.com/gersteinlab/MedAgents) - Multi-disciplinary collaboration framework for zero-shot medical reasoning using role-playing LLM agents (ACL 2024)
 - [MedAgentGym](https://github.com/wshi83/MedAgentGym) - Scalable agentic training environment for code-centric reasoning in biomedical data science
+- [NVIDIA Biomedical AI-Q Research Agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) - Deployable biomedical deep-research agent blueprint combining on-prem multimodal RAG, report generation, human-in-the-loop editing, and virtual screening with MolMIM and DiffDock for drug discovery workflows (2025)
 
 ### ⚛ Chemistry & Materials
 
