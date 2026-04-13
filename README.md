@@ -426,6 +426,7 @@
 
 #### LLM for Chemistry
 - [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry) - Curated paper list about LLMs for chemistry covering fine-tuning, reasoning, multi-modal models, agents, and benchmarks (COLING 2025)
+- [ChemMCP](https://github.com/OSU-NLP-Group/ChemMCP) - Extensible chemistry toolkit for MCP-enabled AI assistants, exposing molecule analysis, property prediction, and reaction synthesis tools through unified Python/MCP interfaces for chemistry agents and research workflows (Apache 2.0, 2025)
 
 #### Materials Discovery
 - [GNoME](https://github.com/google-deepmind/materials_discovery) - DeepMind's graph neural network for materials exploration, discovering 2.2M new crystal structures (380K most stable) equivalent to 800 years of traditional research, with 520K+ materials dataset open-sourced (Nature 2023)
