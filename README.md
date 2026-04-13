@@ -464,6 +464,7 @@
 #### Climate Modeling
 - [GenCast](https://github.com/google-deepmind/graphcast) - Google DeepMind's diffusion-based ensemble weather forecasting model at 0.25° resolution, outperforming ECMWF ENS on 97.2% of targets up to 15 days ahead, with open-source code and weights (Nature 2024)
 - [Aurora](https://github.com/microsoft/aurora) - Microsoft's foundation model for the Earth system supporting weather, air pollution, and ocean wave forecasting at multiple resolutions, trained on 1M+ hours of diverse atmospheric data (Nature 2025)
+- [Earth-Copilot](https://github.com/microsoft/Earth-Copilot) - Microsoft's AI-powered geospatial Earth science application for natural-language exploration, visualization, and analysis of 130+ satellite collections, with STAC integration, multi-agent backend, MCP server, and deployable React/FastAPI stack (MIT, 2025)
 - [ClimaX](https://github.com/microsoft/ClimaX) - First foundation model for weather and climate by Microsoft, Vision Transformer-based architecture trained on heterogeneous datasets (ICML 2023)
 - [NeuralGCM](https://github.com/neuralgcm/neuralgcm) - Google Research's hybrid ML/physics atmospheric model combining learned dynamics with physical constraints, outperforming traditional models on 2-15 day forecasts and 40-year climate simulation, developed with ECMWF (Nature 2024)
 - [NVIDIA Earth-2](https://github.com/NVIDIA/earth2studio) - World's first fully open, accelerated weather AI software stack with Medium Range forecasting and Nowcasting models using generative AI (January 2026)
