@@ -474,6 +474,7 @@
 - [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
 - [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
 - [WeatherGFT](https://github.com/black-yt/WeatherGFT) - Physics-AI hybrid modeling for fine-grained weather forecasting (NeurIPS'24)
+- [GeoAI](https://github.com/opengeos/geoai) - High-level open-source geospatial AI package for satellite/aerial imagery analysis, model training, inference, interactive visualization, and QGIS integration, bridging PyTorch/Transformers with remote sensing workflows (MIT, 2026)
 - [Awesome Large Weather Models](https://github.com/jaychempan/Awesome-LWMs) - Curated list of large weather models for AI Earth science
 - [TerraTorch](https://github.com/IBM/terratorch) - Python toolkit for fine-tuning geospatial foundation models
 - [Earth-Agent](https://github.com/opendatalab/Earth-Agent) - LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits
