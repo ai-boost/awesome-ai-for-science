@@ -160,6 +160,7 @@
 ### Scientific Literature RAG & Analysis
 - [PaperQA2](https://github.com/future-house/paper-qa) - High-accuracy RAG for scientific PDFs with citation support, agentic RAG, and contradiction detection
 - [OpenScholar](https://github.com/AkariAsai/OpenScholar) - Retrieval-augmented LM synthesizing scientific literature from 45M papers with human-expert-level citation accuracy, outperforming GPT-4o by 5% on ScholarQABench (Nature 2026, UW & Ai2)
+- [Valsci](https://github.com/bricee98/Valsci) - Self-hostable scientific claim-verification and literature-review tool combining Semantic Scholar retrieval, bibliometric scoring, and LLM-based evidence synthesis for large-batch validation workflows
 - [paper-reviewer](https://github.com/deep-diver/paper-reviewer) - Generate comprehensive reviews from arXiv papers and convert to blog posts
 
 ---
