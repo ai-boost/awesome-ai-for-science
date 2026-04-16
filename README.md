@@ -221,6 +221,7 @@
 
 ### Evaluation & Benchmarking
 - [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
+- [PaperBench (OpenAI, 2025)](https://github.com/openai/preparedness/tree/main/project/paperbench) - Benchmark evaluating AI agents' ability to replicate 20 ICML 2024 Spotlight/Oral papers from scratch, with 8,316 gradable tasks and author-co-developed rubrics
 - [BuildArena](https://github.com/AI4Science-WestlakeU/BuildArena) - First physics-aligned interactive benchmark for LLM agents in engineering construction, designing rockets/cars/bridges in physics simulator with 3D spatial geometry library
 - [SciTrust (2024)](https://impact.ornl.gov/en/publications/scitrust-evaluating-the-trustworthiness-of-large-language-models-) - Trustworthiness evaluation framework for scientific LLMs (truthfulness, hallucination, sycophancy)
 - [SciCode](https://github.com/scicode-bench/SciCode) - Research coding benchmark curated by scientists with 338 subproblems across 16 subdomains (physics, math, materials, biology, chemistry), evaluating LLMs on realistic scientific programming tasks with gold-standard solutions (NeurIPS 2024)
@@ -682,4 +683,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: January 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, and scientific foundation models*
+*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, and scientific foundation models*
