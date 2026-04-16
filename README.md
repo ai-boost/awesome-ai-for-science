@@ -218,6 +218,7 @@
 - [autoresearch](https://github.com/karpathy/autoresearch) - Andrej Karpathy's autonomous LLM research framework: AI agent runs overnight experiments on a real training setup, auto-editing code→5min training→evaluation in a loop, ~100 experiments per night on a single GPU
 - [UniScientist](https://github.com/UniPat-AI/UniScientist) - Universal scientific research intelligence covering 50+ disciplines, repositioning LLMs as cross-disciplinary generators with human experts as verifiers; 30B model outperforms Claude Opus and GPT on 5 research benchmarks
 - [EvoScientist](https://github.com/EvoScientist/EvoScientist) - Self-evolving AI scientist with 6 specialized sub-agents (plan/research/code/debug/analyze/write) and persistent memory, #1 on DeepResearch Bench II and AstaBench, supporting multi-provider LLMs and multi-channel deployment (Apache 2.0, 2026)
+- [CORAL](https://github.com/Human-Agent-Society/CORAL) - Autonomous multi-agent evolution for open-ended discovery; long-running agents with shared persistent memory, asynchronous execution, and heartbeat-based interventions; 3–10× higher improvement rates than fixed evolutionary-search baselines on 10 math/algorithmic/systems tasks ([arXiv:2604.01658](https://arxiv.org/abs/2604.01658), 2026)
 
 ### Evaluation & Benchmarking
 - [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
