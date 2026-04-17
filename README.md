@@ -205,6 +205,7 @@
 - [DeepScientist](https://github.com/ResearAI/DeepScientist) - First system progressively surpassing human SOTA on frontier AI tasks (183.7%, 1.9%, 7.9% improvements), month-long autonomous discovery with 20,000+ GPU hours
 - [Kosmos](https://github.com/jimmc414/Kosmos) - Extended autonomy AI scientist with 200 parallel agent rollouts, 42K lines of code execution, 1.5K papers analyzed per run, achieving 79.4% accuracy and 7 scientific discoveries (Edison Scientific)
 - [AlphaResearch](https://github.com/answers111/alpha-research) - Autonomous algorithm discovery combining evolutionary search with peer-review reward models, achieving best-known performance on circle packing problems
+- [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper with multi-agent debate, citation verification, and OpenClaw integration (11K+ stars, 2026)
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) - Autonomous pipeline from literature review→hypothesis→algorithm implementation→publication-level writing with Scientist-Bench evaluation
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Multi-agent workflows for complete research cycles with AgentRxiv for cumulative discovery
 - [InternAgent](https://github.com/Alpha-Innovator/InternAgent) - Closed-loop multi-agent system from hypothesis to verification across 12 scientific tasks, #1 on MLE-Bench (36.44%)
