@@ -391,6 +391,7 @@
 - [RFdiffusion3](https://github.com/RosettaCommons/RFdiffusion) - Latest RFdiffusion for protein structure design with 10× speedup and atom-level precision (December 2025)
 - [IgGM](https://github.com/TencentAI4S/IgGM) - Generative foundation model for functional antibody and nanobody design, supporting de novo generation, affinity maturation, inverse design, structure prediction, and humanization (Tencent AI4S, ICLR 2025)
 - [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
+- [GenMol](https://github.com/NVIDIA-Digital-Bio/genmol) - ICML 2025 drug discovery generalist using masked discrete diffusion and fragment-based generation with molecular context guidance (NVIDIA)
 - [mint](https://github.com/VarunUllanat/mint) - Learning the language of protein-protein interactions
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions) - Large-scale biomolecular instruction dataset for chemistry/biology LLMs (ICLR2024)
 - [Uni-Mol](https://github.com/deepmodeling/Uni-Mol) - Universal 3D molecular pretraining framework with 209M conformations, scaling to 1.1B parameters (Uni-Mol2) on 800M conformations for molecular property prediction, docking, and quantum chemistry (ICLR 2023, NeurIPS 2024)
