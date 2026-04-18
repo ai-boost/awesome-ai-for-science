@@ -379,6 +379,7 @@
 - [Chai-1](https://github.com/chaidiscovery/chai-lab) - Multi-modal foundation model for biomolecular structure prediction (proteins, small molecules, DNA, RNA, glycans) achieving SOTA across benchmarks, with optional MSA/template support (Chai Discovery, 2024)
 - [Boltz](https://github.com/jwohlwend/boltz) - First fully open-source model achieving AlphaFold3-level accuracy with 1000x faster binding affinity prediction (MIT)
 - [BoltzGen](https://arxiv.org/abs/2511.18345) - De novo protein binder design via generative model, achieving nanomolar binding for 66% of novel targets tested (MIT, 2025)
+- [Proteina-Complexa](https://github.com/NVIDIA-Digital-Bio/Proteina-Complexa) - Flow-based generative model for atomistic protein binder design with test-time optimization, SOTA on binder benchmarks (ICLR 2026 Oral, NVIDIA)
 - [xfold](https://github.com/Shenggan/xfold) - Democratizing AlphaFold3: PyTorch reimplementation to accelerate protein structure prediction research
 - [MegaFold](https://github.com/Supercomputing-System-AI-Lab/MegaFold/) - Cross-platform system optimizations for accelerating AlphaFold3 training with 1.73x speedup and 1.23x memory reduction
 - [Graphormer](https://github.com/microsoft/Graphormer) - General-purpose deep learning backbone for molecular modeling
