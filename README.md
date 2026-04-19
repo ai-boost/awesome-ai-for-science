@@ -462,6 +462,7 @@
 - [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
 - [EquiformerV2](https://github.com/atomicarchitects/equiformer_v2) - Improved equivariant Transformer for 3D atomic graphs (ICLR2024)
 - [Equiformer](https://github.com/atomicarchitects/equiformer) - Equivariant graph attention Transformer (ICLR2023)
+- [QQA4CO](https://github.com/Yuma-Ichikawa/QQA4CO) - PyTorch library for large-scale combinatorial / spin-glass optimisation via Parallel Quasi-Quantum Annealing (PQQA, ICLR 2025). Treats the energy landscape of QUBO / Ising / Edwards–Anderson / Sherrington–Kirkpatrick / Hopfield models with a quantum-inspired schedule, batched on GPU. Streamlit demo included.
 
 #### Astronomy & Astrophysics
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
