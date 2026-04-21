@@ -462,6 +462,7 @@
 - [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
 - [EquiformerV2](https://github.com/atomicarchitects/equiformer_v2) - Improved equivariant Transformer for 3D atomic graphs (ICLR2024)
 - [Equiformer](https://github.com/atomicarchitects/equiformer) - Equivariant graph attention Transformer (ICLR2023)
+- [TORAX](https://github.com/google-deepmind/torax) - Differentiable tokamak core transport simulator for fusion energy research, coupling PDE solvers with JAX auto-differentiation and neural-network surrogates for fast forward modelling, pulse-design, and trajectory optimization (Google DeepMind, Apache 2.0)
 
 #### Astronomy & Astrophysics
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
