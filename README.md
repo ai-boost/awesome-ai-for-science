@@ -493,6 +493,7 @@
 #### Agricultural AI
 - [PlantNet](https://plantnet.org/) - Plant identification using AI and citizen science
 - [AgML](https://github.com/Project-AgML/AgML) - Agricultural machine learning platform
+- [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) - Multi-modal geospatial ML platform for agriculture and sustainability, fusing satellite imagery (RGB, SAR, multispectral), drone imagery, weather data, and sensor data for crop identification, carbon footprint estimation, and microclimate prediction (Microsoft Research, MIT License)
 
 #### Ecological Modeling
 - [BioSimulators](https://github.com/biosimulators/Biosimulators) - Biological simulation tools
