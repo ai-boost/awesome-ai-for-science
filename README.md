@@ -542,6 +542,7 @@
 - [Open Catalyst Project](https://opencatalystproject.org/) - Catalyst discovery
 
 ### Physics
+- [The Well](https://github.com/PolymathicAI/the_well) - 15TB collection of 16 large-scale numerical simulation datasets spanning fluid dynamics, MHD, astrophysics, biological systems, and acoustic scattering, with unified PyTorch dataloaders and benchmarks for training foundation models on physical sciences (Polymathic AI, NeurIPS 2024)
 - [LIGO Open Science Center](https://gwosc.org/) - Gravitational wave data
 - [Particle Data Group](https://pdg.lbl.gov/) - Particle physics data
 - [OpenQuantumMaterials](https://www.quantum-materials.org/) - Quantum materials data
