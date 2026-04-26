@@ -373,6 +373,7 @@
 #### Protein & Drug Discovery
 - [CryoDRGN](https://github.com/ml-struct-bio/cryodrgn) - Neural network-based cryo-EM heterogeneous reconstruction, modeling continuous 3D structure distributions from single-particle images, with CryoDRGN-ET extending to in-cell cryo-electron tomography (MIT CSAIL, Nature Methods 2021/2024)
 - [AlphaFold](https://github.com/google-deepmind/alphafold) - Protein structure prediction
+- [AlphaFold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline for unified biomolecular structure prediction of proteins, nucleic acids, small molecules, ions, and post-translational modifications (Google DeepMind, Nature 2024)
 - [ColabFold (2025 Updates)](https://github.com/sokrypton/ColabFold) - AlphaFold/ESMFold accessible implementation with AF3 JSON export, database updates
 - [OpenFold3](https://github.com/aqlaboratory/openfold-3) - Fully open-source (Apache 2.0) biomolecular structure prediction reproducing AlphaFold3, free for academic and commercial use (Columbia AlQuraishi Lab & OpenFold Consortium, 2025)
 - [Protenix](https://github.com/bytedance/Protenix) - Trainable PyTorch reproduction of AlphaFold 3
