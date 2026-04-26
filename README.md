@@ -465,6 +465,7 @@
 - [TORAX](https://github.com/google-deepmind/torax) - Differentiable tokamak core transport simulator for fusion energy research, coupling PDE solvers with JAX auto-differentiation and neural-network surrogates for fast forward modelling, pulse-design, and trajectory optimization (Google DeepMind, Apache 2.0)
 
 #### Astronomy & Astrophysics
+- [AstroCLIP](https://github.com/PolymathicAI/AstroCLIP) - Cross-modal self-supervised foundation model for galaxies by Polymathic AI, jointly embedding multi-band galaxy imaging and optical spectra into a shared latent space to enable zero/few-shot redshift estimation, galaxy property prediction, morphology classification, and cross-modal similarity search (MNRAS Letters 2024)
 - [AstroPy](https://github.com/astropy/astropy) - Python astronomy tools
 - [Gaia Archive](https://gea.esac.esa.int/archive/) - Stellar data for ML
 - [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Spherical CNNs for astronomy
