@@ -570,6 +570,7 @@
 
 ### Specialized Frameworks
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Molecular dynamics analysis
+- [e3nn](https://github.com/e3nn/e3nn) - Euclidean neural networks for arbitrary point transformations enabling E(3)-equivariant deep learning, foundational library for building geometry-aware neural networks in molecular dynamics, materials science, and physics
 - [MDtrajNet](https://arxiv.org/abs/2505.16301) - Neural network foundation model that directly generates MD trajectories bypassing force calculations, accelerating simulations by up to 100× with equivariant Transformer architecture (2025)
 - [ASE](https://wiki.fysik.dtu.dk/ase/) - Atomic Simulation Environment for materials modeling
 - [PyMC](https://github.com/pymc-devs/pymc) - Probabilistic programming
