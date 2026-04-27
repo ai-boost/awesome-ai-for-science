@@ -492,6 +492,9 @@
 - [Earth-Agent](https://github.com/opendatalab/Earth-Agent) - LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits
 - [AI for Earth](https://planetarycomputer.microsoft.com/) - Microsoft's environmental AI
 
+#### Remote Sensing & Geospatial AI
+- [Satlas](https://github.com/allenai/satlas) - Allen Institute for AI's global geospatial foundation model for satellite imagery analysis, enabling large-scale mapping of buildings, wind turbines, trees, and land cover from Sentinel-2 data with open-source weights and inference tools (2024)
+
 ### 🌾 Agriculture & Ecology
 
 #### Agricultural AI
