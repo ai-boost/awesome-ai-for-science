@@ -494,6 +494,7 @@
 
 #### Remote Sensing & Geospatial AI
 - [Satlas](https://github.com/allenai/satlas) - Allen Institute for AI's global geospatial foundation model for satellite imagery analysis, enabling large-scale mapping of buildings, wind turbines, trees, and land cover from Sentinel-2 data with open-source weights and inference tools (2024)
+- [SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus) - Semantic-enhanced multi-modal remote sensing foundation model for Earth observation (Nature Machine Intelligence 2025), enabling universal interpretation across diverse satellite imagery modalities with open-source weights and benchmarks
 
 ### 🌾 Agriculture & Ecology
 
