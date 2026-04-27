@@ -238,6 +238,7 @@
 - [Goedel-Prover-V2](https://github.com/Goedel-LM/Goedel-Prover-V2) - Strongest open-source automated theorem prover in Lean 4, 8B model matches DeepSeek-Prover-V2-671B at 84.6% MiniF2F, 32B model achieves 90.4% with self-correction, using scaffolded data synthesis and verifier-guided proof refinement (Princeton, 2025)
 - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - DeepSeek's open-source large language model for formal theorem proving in Lean 4, integrating informal and formal mathematical reasoning through recursive subgoal decomposition and reinforcement learning powered by DeepSeek-V3, with open weights and ProverBench evaluation (2025)
 - [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
+- [STAgent](https://github.com/LiuLab-Bioelectronics-Harvard/STAgent) - Multimodal LLM-based AI agent enabling deep research in spatial transcriptomics, automating analysis and interpretation of spatial gene expression data (Harvard LiuLab, bioRxiv 2025)
 - [MOOSE](https://github.com/ZonglinY/MOOSE) - Large Language Models for automated open-domain scientific hypotheses discovery (ACL 2024, ICML Best Poster)
 - [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
 - [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
@@ -699,4 +700,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, and scientific foundation models*
+*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, and spatial transcriptomics agents*
