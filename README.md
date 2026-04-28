@@ -125,6 +125,7 @@
 ## 🔄 Paper-to-Code & Reproducibility
 
 ### Automated Code Generation
+- [Paper2Code](https://github.com/going-doer/Paper2Code) - Automated code generation from machine learning research papers into runnable implementations (4.5K+ stars, 2025)
 - [AutoP2C](https://arxiv.org/abs/2504.20115) - LLM agent framework generating runnable repositories from academic papers
 - [ResearchCodeAgent](https://arxiv.org/abs/2504.20117) - Multi-agent system for automated codification of research methodologies
 - [ToolMaker](https://huggingface.co/papers/2502.11705) - Convert papers with code into callable agent tools
