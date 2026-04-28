@@ -429,6 +429,9 @@
 - [GenePT](https://github.com/yiqunchen/GenePT) - Generative pre-training for genomics
 - [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code and Python. Parses raw genotyping data from consumer DNA services and analyzes SNPs across 17 categories including health risks, pharmacogenomics, ancestry, and nutrition, with a terminal-style HTML dashboard.
 
+#### Neuroscience & Behavioral Analysis
+- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals including humans, enabling quantitative behavioral analysis in neuroscience and ethology (Nature Neuroscience 2018, 5.6K+ stars)
+
 #### Medical AI & Clinical Applications
 - [Cellpose](https://github.com/MouseLand/cellpose) - Generalist deep learning algorithm for cell and nucleus segmentation across diverse image types, with human-in-the-loop training (2.0) and one-click image restoration (3.0), 70K+ training objects (Nature Methods 2021/2022/2025)
 - [MedSAM](https://github.com/bowang-lab/MedSAM) - Universal medical image segmentation foundation model trained on 1.57M image-mask pairs across 10 imaging modalities and 30+ cancer types, with MedSAM2 extending to 3D and video segmentation (Nature Communications 2024)
