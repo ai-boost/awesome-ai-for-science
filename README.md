@@ -406,6 +406,7 @@
 - [RDKit](https://github.com/rdkit/rdkit) - Cheminformatics toolkit
 - [ESM3](https://github.com/evolutionaryscale/esm) - 98B-parameter frontier generative model jointly reasoning over protein sequence, structure, and function, trained on 2.78 billion proteins; generated a novel fluorescent protein (esmGFP) with only 58% sequence identity to known GFPs (EvolutionaryScale, 2024)
 - [ESMFold](https://github.com/facebookresearch/esm) - Protein structure prediction from ESM models
+- [SaProt](https://github.com/westlake-repl/SaProt) - Structure-aware protein language model using 3D structural vocabulary (Foldseek) for joint sequence-structure pretraining, achieving SOTA on protein engineering and fitness prediction benchmarks (ICML 2024, Westlake University & Repl)
 
 #### Genomics & Bioinformatics
 - [RhoFold+](https://github.com/ml4bio/RhoFold) - End-to-end RNA 3D structure prediction using RNA language model pretrained on 23.7M sequences, outperforming existing methods and human expert groups on RNA-Puzzles and CASP15 (Nature Methods 2024)
