@@ -601,6 +601,7 @@
 - [OpenMM](https://github.com/openmm/openmm) - High-performance molecular simulation toolkit
 - [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit) - Deep learning package for many-body potential energy representation and molecular dynamics, achieving quantum-mechanical accuracy with classical MD efficiency (DeepModeling, Gordon Bell Prize 2020, 1.9k+ stars)
 - [Newton](https://github.com/newton-physics/newton) - GPU-accelerated differentiable physics simulation engine built on NVIDIA Warp, supporting rigid/soft body, cloth, and gradient-based optimization for scientific ML, initiated by Disney Research, DeepMind, and NVIDIA (Linux Foundation, Apache 2.0, 2025)
+- [PennyLane](https://github.com/PennyLaneAI/pennylane) - Cross-platform library for differentiable programming of quantum computers with automatic differentiation, enabling hybrid quantum-classical machine learning for quantum chemistry, quantum physics, and NISQ algorithm research (Xanadu, 3k+ stars)
 
 ---
 
