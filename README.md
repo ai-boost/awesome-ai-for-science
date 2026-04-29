@@ -498,6 +498,7 @@
 - [Prithvi WxC](https://huggingface.co/ibm/prithvi-wxc) - IBM-NASA open-source 2.3B parameter weather and climate foundation model trained on 160 MERRA-2 variables, runs on desktop with fine-tuned variants for climate downscaling and gravity wave parameterization
 - [ClimateBench](https://github.com/duncanwp/ClimateBench) - Climate data benchmark for ML models
 - [WeatherBench](https://github.com/pangeo-data/WeatherBench) - Weather prediction benchmark
+- [WeatherBench2](https://github.com/google-research/weatherbench2) - Next-generation benchmark for data-driven global weather models with standardized evaluation framework and curated datasets for ML forecasting (Google Research, 2024)
 - [WeatherGFT](https://github.com/black-yt/WeatherGFT) - Physics-AI hybrid modeling for fine-grained weather forecasting (NeurIPS'24)
 - [GeoAI](https://github.com/opengeos/geoai) - High-level open-source geospatial AI package for satellite/aerial imagery analysis, model training, inference, interactive visualization, and QGIS integration, bridging PyTorch/Transformers with remote sensing workflows (MIT, 2026)
 - [segment-geospatial](https://github.com/opengeos/segment-geospatial) - Python package for segmenting geospatial data with the Segment Anything Model (SAM), enabling zero-shot object segmentation in satellite and aerial imagery for remote sensing and Earth observation (MIT, 4k+ stars)
