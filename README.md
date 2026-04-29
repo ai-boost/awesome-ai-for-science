@@ -599,6 +599,7 @@
 - [PyMC](https://github.com/pymc-devs/pymc) - Probabilistic programming
 - [AI2BMD](https://github.com/microsoft/AI2BMD) - Microsoft's AI-powered ab initio biomolecular dynamics simulation achieving quantum-mechanical accuracy for proteins with 10,000+ atoms, orders of magnitude faster than DFT using protein fragmentation and ML force fields (Nature 2024)
 - [OpenMM](https://github.com/openmm/openmm) - High-performance molecular simulation toolkit
+- [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit) - Deep learning package for many-body potential energy representation and molecular dynamics, achieving quantum-mechanical accuracy with classical MD efficiency (DeepModeling, Gordon Bell Prize 2020, 1.9k+ stars)
 - [Newton](https://github.com/newton-physics/newton) - GPU-accelerated differentiable physics simulation engine built on NVIDIA Warp, supporting rigid/soft body, cloth, and gradient-based optimization for scientific ML, initiated by Disney Research, DeepMind, and NVIDIA (Linux Foundation, Apache 2.0, 2025)
 
 ---
@@ -713,4 +714,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, and biomedical image analysis foundation models*
+*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics*
