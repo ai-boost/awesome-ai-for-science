@@ -459,6 +459,7 @@
 - [CHGNet](https://github.com/CederGroupHub/chgnet) - Universal pretrained neural network potential with charge and magnetic moment awareness, trained on 1.5M+ Materials Project inorganic structures for charge-informed molecular dynamics and phase diagram prediction (Berkeley, Nature Machine Intelligence 2023 Cover)
 - [MatterGen](https://github.com/microsoft/mattergen) - Diffusion-based generative model for inorganic materials design, steering generation by chemistry, symmetry, bulk modulus, band gap, or magnetic properties, 2× more likely to produce stable novel structures than prior methods, experimentally validated with synthesized TaCr₂O₆ (Microsoft, Nature 2025)
 - [MatterSim](https://github.com/microsoft/mattersim) - Deep learning atomistic model across elements, temperatures, and pressures
+- [ORB](https://github.com/orbital-materials/orb-models) - Universal machine learning interatomic potential for atomistic simulation of materials, molecules, and biomolecules across the periodic table, with open-source pretrained models and inference tools (Orbital Materials, 2024-2025)
 - [Crystal Graph CNNs](https://github.com/txie-93/cgcnn) - Crystal property prediction
 - [MatBench](https://github.com/materialsproject/matbench) - Materials informatics benchmark
 - [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) - Curated list of atomistic ML projects for materials science
