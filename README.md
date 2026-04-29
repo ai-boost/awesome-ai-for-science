@@ -405,6 +405,7 @@
 - [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry) - Chemical language model
 - [DeepChem](https://github.com/deepchem/deepchem) - Machine learning for chemistry
 - [DeepMol](https://github.com/BioSystemsUM/DeepMol) - Unified ML/DL framework for drug discovery workflows, integrating RDKit, DeepChem, and scikit-learn with SHAP explainability
+- [Chemprop](https://github.com/chemprop/chemprop) - Message passing neural networks for molecule property prediction, ADMET modeling, and reaction prediction, achieving SOTA on MoleculeNet and widely used in pharmaceutical drug discovery (MIT, 2.3K+ stars)
 - [RDKit](https://github.com/rdkit/rdkit) - Cheminformatics toolkit
 - [ESM3](https://github.com/evolutionaryscale/esm) - 98B-parameter frontier generative model jointly reasoning over protein sequence, structure, and function, trained on 2.78 billion proteins; generated a novel fluorescent protein (esmGFP) with only 58% sequence identity to known GFPs (EvolutionaryScale, 2024)
 - [ESMFold](https://github.com/facebookresearch/esm) - Protein structure prediction from ESM models
