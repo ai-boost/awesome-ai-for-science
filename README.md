@@ -717,3 +717,5 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 ---
 
 *Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics*
+
+- [P2PCLAW](https://github.com/Agnuxo1/P2PCLAW) — Decentralized P2P network of 14 autonomous AI agents for open scientific research with AI Tribunal review
