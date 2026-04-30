@@ -432,6 +432,7 @@
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT) - Single-cell BERT for gene expression
 - [GenePT](https://github.com/yiqunchen/GenePT) - Generative pre-training for genomics
 - [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code and Python. Parses raw genotyping data from consumer DNA services and analyzes SNPs across 17 categories including health risks, pharmacogenomics, ancestry, and nutrition, with a terminal-style HTML dashboard.
+- [OpenCRISPR](https://github.com/profluent-ai/opencrispr) - First open-source AI-generated gene editing systems developed with protein language models, enabling programmable CRISPR-Cas nucleases for synthetic biology and therapeutic genome editing (Profluent, 2024)
 
 #### Neuroscience & Behavioral Analysis
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals including humans, enabling quantitative behavioral analysis in neuroscience and ethology (Nature Neuroscience 2018, 5.6K+ stars)
@@ -719,4 +720,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine*
+*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine*
