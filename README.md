@@ -445,6 +445,7 @@
 - [MedAgentGym](https://github.com/wshi83/MedAgentGym) - Scalable agentic training environment for code-centric reasoning in biomedical data science
 - [MedRAG](https://github.com/Teddy-XiongGZ/MedRAG) - Systematic medical RAG toolkit for question answering over PubMed, StatPearls, textbooks, and Wikipedia, supporting multiple retrievers, domain LLMs, and follow-up-query workflows for benchmarked clinical/biomedical QA (ACL Findings 2024)
 - [NVIDIA Biomedical AI-Q Research Agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) - Deployable biomedical deep-research agent blueprint combining on-prem multimodal RAG, report generation, human-in-the-loop editing, and virtual screening with MolMIM and DiffDock for drug discovery workflows (2025)
+- [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Self-configuring deep learning framework for semantic segmentation of biomedical images requiring no manual hyperparameter tuning; automatically adapts preprocessing, network topology, and training parameters to achieve state-of-the-art results across 120+ international competitions and benchmarks out-of-the-box (DKFZ, Nature Methods 2021, 8.3k+ stars)
 
 ### ⚛ Chemistry & Materials
 
@@ -718,4 +719,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science*
+*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine*
