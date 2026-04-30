@@ -512,6 +512,7 @@
 #### Remote Sensing & Geospatial AI
 - [Satlas](https://github.com/allenai/satlas) - Allen Institute for AI's global geospatial foundation model for satellite imagery analysis, enabling large-scale mapping of buildings, wind turbines, trees, and land cover from Sentinel-2 data with open-source weights and inference tools (2024)
 - [SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus) - Semantic-enhanced multi-modal remote sensing foundation model for Earth observation (Nature Machine Intelligence 2025), enabling universal interpretation across diverse satellite imagery modalities with open-source weights and benchmarks
+- [TESSERA (CVPR 2026)](https://github.com/ucam-eo/tessera) - University of Cambridge's foundation model for time-series satellite imagery, enabling efficient extraction of temporal patterns from Earth observation for land classification, canopy height prediction, and other remote sensing tasks
 
 ### 🌾 Agriculture & Ecology
 
@@ -717,4 +718,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials*
+*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science*
