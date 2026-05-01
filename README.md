@@ -240,6 +240,7 @@
 - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - DeepSeek's open-source large language model for formal theorem proving in Lean 4, integrating informal and formal mathematical reasoning through recursive subgoal decomposition and reinforcement learning powered by DeepSeek-V3, with open weights and ProverBench evaluation (2025)
 - [BioDiscoveryAgent](https://github.com/snap-stanford/BioDiscoveryAgent) - AI agent for biological discovery and research automation
 - [STAgent](https://github.com/LiuLab-Bioelectronics-Harvard/STAgent) - Multimodal LLM-based AI agent enabling deep research in spatial transcriptomics, automating analysis and interpretation of spatial gene expression data (Harvard LiuLab, bioRxiv 2025)
+- [Camyla](https://github.com/yifangao112/Camyla) - Fully autonomous medical image segmentation research system that generates complete manuscripts end-to-end from datasets with zero human intervention, beating strongest baselines on 24 of 31 datasets and achieving T1-T2 tier manuscript quality in double-blind evaluations (USTC & Shanghai AI Lab, 2026)
 - [MOOSE](https://github.com/ZonglinY/MOOSE) - Large Language Models for automated open-domain scientific hypotheses discovery (ACL 2024, ICML Best Poster)
 - [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
 - [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
@@ -720,4 +721,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: April 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine*
+*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents*
