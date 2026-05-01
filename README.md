@@ -182,6 +182,7 @@
 - [Notion AI](https://www.notion.so/product/ai) - AI-powered research note-taking and knowledge management
 - [Obsidian Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - AI-powered note linking and research graph navigation
 - [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered literature discovery and research network mapping
+- [SciWrite](https://github.com/labarba/sciwrite) - Agent skill for AI-assisted scientific manuscript writing review distilled from Stanford's *Writing in the Sciences* course, performing five sequential editorial audit passes on clarity, voice, structure, consistency, and integrity (2026)
 
 ---
 
@@ -722,4 +723,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine*
+*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine; added SciWrite to Research Workbench & Plugins*
