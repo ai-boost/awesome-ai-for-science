@@ -437,6 +437,7 @@
 
 #### Neuroscience & Behavioral Analysis
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals including humans, enabling quantitative behavioral analysis in neuroscience and ethology (Nature Neuroscience 2018, 5.6K+ stars)
+- [TRIBE v2](https://github.com/facebookresearch/tribev2) - Meta FAIR's foundation model of vision, audition, and language for in-silico neuroscience, predicting fMRI brain responses to naturalistic multimodal stimuli (video, audio, text) through unified Transformer architecture mapped to the cortical surface (2026)
 
 #### Medical AI & Clinical Applications
 - [Cellpose](https://github.com/MouseLand/cellpose) - Generalist deep learning algorithm for cell and nucleus segmentation across diverse image types, with human-in-the-loop training (2.0) and one-click image restoration (3.0), 70K+ training objects (Nature Methods 2021/2022/2025)
@@ -721,4 +722,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents*
+*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine*
