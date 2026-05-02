@@ -201,7 +201,8 @@
 
 ## 🤖 Research Agents & Autonomous Workflows
 
-### Autonomous Research Systems (2024-2025 Breakthroughs)
+### Autonomous Research Systems (2023-2025 Breakthroughs)
+- [FunSearch (DeepMind, Nature 2023)](https://github.com/google-deepmind/funsearch) - First system to make novel, verifiable scientific discoveries by pairing LLMs with evolutionary search, solving open problems in combinatorics (cap set problem) and discovering faster matrix multiplication algorithms
 - [The AI Scientist v1 (2024)](https://arxiv.org/abs/2408.06292) - First fully autonomous research system: hypothesis→experiment→writing→review simulation
 - [The AI Scientist v2 (2025)](https://arxiv.org/abs/2504.08066) - Enhanced with Agentic Tree Search, reduced template dependency, first workshop-level accepted paper
 - [DeepScientist](https://github.com/ResearAI/DeepScientist) - First system progressively surpassing human SOTA on frontier AI tasks (183.7%, 1.9%, 7.9% improvements), month-long autonomous discovery with 20,000+ GPU hours
@@ -728,4 +729,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine; added SciWrite to Research Workbench & Plugins; added Chroma to Biology & Medicine; added AlphaMissense to Genomics & Bioinformatics; added Clay Foundation Model to Remote Sensing & Geospatial AI; added MONAI to Medical AI & Clinical Applications; added TotalSegmentator to Medical AI & Clinical Applications*
+*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added FunSearch to Research Agents & Autonomous Workflows; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine; added SciWrite to Research Workbench & Plugins; added Chroma to Biology & Medicine; added AlphaMissense to Genomics & Bioinformatics; added Clay Foundation Model to Remote Sensing & Geospatial AI; added MONAI to Medical AI & Clinical Applications; added TotalSegmentator to Medical AI & Clinical Applications*
