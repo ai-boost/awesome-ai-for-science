@@ -248,6 +248,7 @@
 - [MOOSE](https://github.com/ZonglinY/MOOSE) - Large Language Models for automated open-domain scientific hypotheses discovery (ACL 2024, ICML Best Poster)
 - [ChemCrow](https://arxiv.org/abs/2304.05376) - LLM agents for chemistry research with tool integration
 - [Coscientist](https://www.nature.com/articles/s41586-023-06792-1) - Autonomous chemical experiment planning and execution
+- [TxAgent](https://github.com/mims-harvard/TxAgent) - AI agent for therapeutic reasoning across a universe of tools, achieving 92.1% accuracy in drug reasoning and outperforming GPT-4o by 25.8% (Harvard MIMS, 2025)
 
 ---
 
@@ -731,4 +732,4 @@ Special thanks to all researchers and developers pushing the boundaries of AI fo
 
 ---
 
-*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added FunSearch to Research Agents & Autonomous Workflows; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine; added SciWrite to Research Workbench & Plugins; added Chroma to Biology & Medicine; added AlphaMissense to Genomics & Bioinformatics; added Clay Foundation Model to Remote Sensing & Geospatial AI; added MONAI to Medical AI & Clinical Applications; added TotalSegmentator to Medical AI & Clinical Applications; added LeanDojo to Domain-Specific Research Agents; added Biomni to Domain-Specific Research Agents*
+*Last updated: May 2026 - Enhanced with 2025-2026 breakthroughs in autonomous research, equation discovery, scientific foundation models, spatial transcriptomics agents, biomedical image analysis foundation models, and deep potential molecular dynamics; added FunSearch to Research Agents & Autonomous Workflows; added pymatgen to Chemistry & Materials; added TESSERA to Earth & Climate Science; added nnU-Net to Biology & Medicine; added OpenCRISPR to Biology & Medicine; added Camyla to Research Agents; added TRIBE v2 to Biology & Medicine; added SciWrite to Research Workbench & Plugins; added Chroma to Biology & Medicine; added AlphaMissense to Genomics & Bioinformatics; added Clay Foundation Model to Remote Sensing & Geospatial AI; added MONAI to Medical AI & Clinical Applications; added TotalSegmentator to Medical AI & Clinical Applications; added LeanDojo to Domain-Specific Research Agents; added Biomni to Domain-Specific Research Agents; added TxAgent to Domain-Specific Research Agents*
