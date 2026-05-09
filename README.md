@@ -65,6 +65,7 @@
 - [arXiv](https://arxiv.org/) - Open-access repository of electronic preprints and postprints
 - [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
+- [Connected Papers](https://www.connectedpapers.com/) - AI-powered visual graph for exploring academic papers and discovering connected research through citation networks and semantic similarity
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
