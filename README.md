@@ -474,6 +474,7 @@
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals including humans, enabling quantitative behavioral analysis in neuroscience and ethology (Nature Neuroscience 2018, 5.6K+ stars)
 - [SLEAP](https://github.com/talmolab/sleap) - Deep learning-based multi-animal pose tracking and behavior classification, enabling automated quantification of social interactions and collective behavior across species (Nature Methods 2022, 2.2K+ stars)
 - [CEBRA (Nature 2023)](https://github.com/AdaptiveMotorControlLab/CEBRA) - Learnable latent embeddings for joint behavioral and neural analysis, enabling consistent and interpretable mapping of neural activity to behavior across modalities, species, and experiments (EPFL & Harvard, 1K+ stars)
+- [Kilosort (Nature Methods 2024)](https://github.com/MouseLand/Kilosort) - Fast spike sorting with drift correction for extracellular electrophysiology, enabling universal neural spike sorting via deep learning on high-density neural probe recordings (MouseLand, 609+ stars)
 - [TRIBE v2](https://github.com/facebookresearch/tribev2) - Meta FAIR's foundation model of vision, audition, and language for in-silico neuroscience, predicting fMRI brain responses to naturalistic multimodal stimuli (video, audio, text) through unified Transformer architecture mapped to the cortical surface (2026)
 
 #### Computational Pathology & Digital Pathology
