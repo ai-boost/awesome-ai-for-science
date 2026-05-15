@@ -552,6 +552,7 @@
 #### Machine Learning for Physics
 - [AlphaQubit](https://github.com/google-deepmind/alphaqubit) - Google DeepMind and Google Quantum AI's transformer-based neural-network decoder for quantum error correction, trained on real Sycamore quantum processor data to outperform tensor-network and correlated matching decoders at code distances 3 and 5, demonstrating ML's role in enabling fault-tolerant quantum computing (Nature 2024)
 - [FermiNet](https://github.com/google-deepmind/ferminet) - DeepMind's neural network for ab-initio quantum chemistry, directly solving the many-electron Schrödinger equation via variational Monte Carlo with antisymmetric wavefunctions, extended to excited states (Phys. Rev. Research 2020, Science 2024)
+- [NetKet](https://github.com/netket/netket) - Machine learning toolkit for many-body quantum systems, implementing neural quantum states, variational Monte Carlo, and tensor network algorithms to solve ground-state and dynamical problems in condensed matter physics and quantum chemistry (EPFL & collaborators, Nature Physics 2019/2022+, 670+ stars)
 - [JAX-MD](https://github.com/jax-md/jax-md) - Molecular dynamics in JAX
 - [Neural ODEs](https://github.com/rtqichen/torchdiffeq) - Differential equations with neural networks
 - [Physics-Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Physics-constrained ML
