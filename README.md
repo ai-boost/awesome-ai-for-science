@@ -566,6 +566,9 @@
 - [Molecular Transformers](https://github.com/pschwllr/MolecularTransformer) - AI for chemical reaction prediction and synthesis planning
 - [SyntheMol (Stanford, Nature Machine Intelligence 2024)](https://github.com/swansonk14/SyntheMol) - Generative AI system for antibiotic discovery that searches billions of synthesizable molecules by combining molecular building blocks through real chemical reactions, experimentally validating novel compounds active against drug-resistant bacteria
 
+#### Lab Automation & Robotics
+- [PyLabRobot](https://github.com/PyLabRobot/pylabrobot) - Interactive and hardware-agnostic SDK for laboratory automation, enabling programmatic control of liquid handlers, plate readers, and other lab instruments across multiple vendors; foundational infrastructure for self-driving laboratories and AI-driven experimental execution (447+ stars)
+
 ### 🌌 Physics & Astronomy
 
 #### Machine Learning for Physics
