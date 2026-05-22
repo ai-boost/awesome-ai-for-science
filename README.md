@@ -473,6 +473,7 @@
 
 #### Genomics & Bioinformatics
 - [RhoFold+](https://github.com/ml4bio/RhoFold) - End-to-end RNA 3D structure prediction using RNA language model pretrained on 23.7M sequences, outperforming existing methods and human expert groups on RNA-Puzzles and CASP15 (Nature Methods 2024)
+- [RNA-FM (Nature Methods 2024)](https://github.com/ml4bio/RNA-FM) - RNA foundation model trained on millions of RNA sequences for generalist RNA sequence understanding, enabling downstream structure prediction, function annotation, and representation learning for non-coding RNAs (ml4bio, 372+ stars)
 - [gRNAde](https://github.com/chaitjo/geometric-rna-design) - Generative AI framework for inverse design of 3D RNA structure and function using geometric deep learning, learning design rules from 3D structures to capture complex tertiary interactions (pseudoknots, non-canonical base pairs) with expert-level accuracy for designing functional RNAs including aptamers and ribozymes (bioRxiv 2025)
 - [AIDO.ModelGenerator](https://github.com/genbio-ai/ModelGenerator) - GenBio AI's software stack for the AI-Driven Digital Organism, supporting adaptation and finetuning of multiscale biological foundation models across DNA, RNA, protein, structure, and single-cell tasks with reproducible CLIs and pretrained model zoo (2025)
 - [Evo 2](https://github.com/ArcInstitute/evo2) - Arc Institute's 40B-parameter genome foundation model trained on 9 trillion nucleotides from all domains of life, supporting 1M base pair context for generalist DNA/RNA/protein prediction and design (Nature 2026)
