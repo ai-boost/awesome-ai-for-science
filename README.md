@@ -220,6 +220,7 @@
 
 ### Autonomous Research Systems (2023-2025 Breakthroughs)
 - [FunSearch (DeepMind, Nature 2023)](https://github.com/google-deepmind/funsearch) - First system to make novel, verifiable scientific discoveries by pairing LLMs with evolutionary search, solving open problems in combinatorics (cap set problem) and discovering faster matrix multiplication algorithms
+- [OpenAaaS](https://github.com/Wolido/OpenAaaS) - Agent orchestration network for scientific research with local data retention and remote agent execution
 - [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve's evolutionary coding agent paradigm, enabling LLMs to autonomously discover and optimize algorithms through iterative evolution, matching the approach behind DeepMind's breakthrough matrix multiplication discovery (6.2K+ stars, 2025)
 - [Virtual Lab (Stanford Zou Group, Nature 2025)](https://github.com/zou-group/virtual-lab) - AI-human collaborative research platform where a human researcher works with a team of LLM agents via team and individual meetings to perform scientific research; demonstrated by designing new SARS-CoV-2 nanobodies with wet-lab validation
 - [The AI Scientist v1 (2024)](https://arxiv.org/abs/2408.06292) - First fully autonomous research system: hypothesis→experiment→writing→review simulation
