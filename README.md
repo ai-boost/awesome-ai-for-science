@@ -68,6 +68,7 @@
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
 - [Connected Papers](https://www.connectedpapers.com/) - AI-powered visual graph for exploring academic papers and discovering connected research through citation networks and semantic similarity
 - [PaSa (ByteDance)](https://github.com/bytedance/pasa) - Advanced paper search agent powered by large language models, autonomously invoking search tools, reading papers, and selecting references to deliver comprehensive and accurate results for complex scholarly queries (1.5K+ stars, Apache 2.0, 2024)
+- [Citely](https://citely.ai/) - AI citation checker and academic source finder for verifying references and claims
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
