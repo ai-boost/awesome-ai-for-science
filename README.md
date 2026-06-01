@@ -582,6 +582,7 @@
 - [MONAI](https://github.com/Project-MONAI/MONAI) - NVIDIA and King's College London's open-source AI toolkit for healthcare imaging, providing foundational frameworks for medical image annotation (MONAI Label), training (MONAI Core), and deployment (MONAI Deploy) across radiology, pathology, and endoscopy (8K+ stars, Apache 2.0)
 - [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - Google Colab-based no-code toolbox democratizing deep learning in microscopy for biologists without programming experience, enabling AI-powered image segmentation, denoising, super-resolution, and object tracking across diverse imaging modalities (Henriques Lab, 640+ stars)
 - [QuPath](https://github.com/qupath/qupath) - Open-source bioimage analysis platform for digital pathology and research, featuring AI-powered cell detection, tissue classification, and whole-slide image analysis with extensible scripting and plugin architecture (1.3K+ stars, actively maintained)
+- [BioImage.IO](https://github.com/bioimage-io/core-bioimage-io-python) - Community-driven model zoo and deployment infrastructure for AI-powered bioimage analysis, enabling standardized sharing, validation, and cross-platform execution of deep learning models across Fiji, Ilastik, napari, and other scientific imaging tools (EPFL, EMBL, and global collaborators, actively maintained)
 
 ### ⚛ Chemistry & Materials
 
