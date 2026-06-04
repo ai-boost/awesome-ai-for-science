@@ -214,10 +214,11 @@
 - [POPPER](https://github.com/snap-stanford/POPPER) - Automated hypothesis testing with agentic sequential falsifications
 
 ### Evaluation & Benchmarking
-- [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
 - [BuildArena](https://github.com/AI4Science-WestlakeU/BuildArena) - First physics-aligned interactive benchmark for LLM agents in engineering construction, designing rockets/cars/bridges in physics simulator with 3D spatial geometry library
-- [SciTrust (2024)](https://impact.ornl.gov/en/publications/scitrust-evaluating-the-trustworthiness-of-large-language-models-) - Trustworthiness evaluation framework for scientific LLMs (truthfulness, hallucination, sycophancy)
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) - Scientific reasoning benchmark for evidence-grounded critique and epistemic calibration
 - [SciBench](https://arxiv.org/abs/2307.10635) - College-level scientific problem-solving evaluation across multiple domains
+- [ScienceAgentBench (ICLR 2025)](https://github.com/OSU-NLP-Group/ScienceAgentBench) - 102 executable tasks from 44 peer-reviewed papers across 4 disciplines with containerized evaluation
+- [SciTrust (2024)](https://impact.ornl.gov/en/publications/scitrust-evaluating-the-trustworthiness-of-large-language-models-) - Trustworthiness evaluation framework for scientific LLMs (truthfulness, hallucination, sycophancy)
 
 ### Academic Review & Evaluation
 - [AgentReview](https://agentreview.github.io/) - LLM agents simulating academic peer review ecosystems
