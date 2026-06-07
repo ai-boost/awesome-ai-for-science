@@ -448,6 +448,7 @@
 - [BoltzGen](https://arxiv.org/abs/2511.18345) - De novo protein binder design via generative model, achieving nanomolar binding for 66% of novel targets tested (MIT, 2025)
 - [Proteina-Complexa](https://github.com/NVIDIA-Digital-Bio/Proteina-Complexa) - Flow-based generative model for atomistic protein binder design with test-time optimization, SOTA on binder benchmarks (ICLR 2026 Oral, NVIDIA)
 - [La-Proteina (NVIDIA)](https://github.com/NVIDIA-Digital-Bio/la-proteina) - Partially latent flow matching model for the joint generation of a protein's amino acid sequence and full atomistic structure, including both backbone and side chains (2025)
+- [Proteina (NVIDIA, ICLR 2025 Oral)](https://github.com/NVIDIA-Digital-Bio/proteina) - Large-scale flow-based protein backbone generator utilizing hierarchical fold class labels for conditioning with a tailored scalable transformer architecture, enabling controllable de novo protein design (264+ stars)
 - [xfold](https://github.com/Shenggan/xfold) - Democratizing AlphaFold3: PyTorch reimplementation to accelerate protein structure prediction research
 - [MegaFold](https://github.com/Supercomputing-System-AI-Lab/MegaFold/) - Cross-platform system optimizations for accelerating AlphaFold3 training with 1.73x speedup and 1.23x memory reduction
 - [Graphormer](https://github.com/microsoft/Graphormer) - General-purpose deep learning backbone for molecular modeling
