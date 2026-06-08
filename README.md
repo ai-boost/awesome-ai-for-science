@@ -83,6 +83,7 @@
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Comprehensive collection of 125+ ready-to-use scientific skill modules for Claude AI across bioinformatics, cheminformatics, clinical research, ML, and materials science
 - [GDM Science Skills](https://github.com/google-deepmind/science-skills) - Google DeepMind's official collection of agentic science skills accelerating scientific workflows with better grounding and higher token efficiency, integrating insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools (2026)
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science with 140+ ready-to-use skills and 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard (K-Dense-AI, 26K+ stars, 2025)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust verification for autonomous bio-data agents before genomic, protein, or clinical data exchanges. Verify AI agent wallet identity before x402 micropayments in agentic science pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ---
 
