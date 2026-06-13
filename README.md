@@ -477,6 +477,7 @@
 - [RFantibody](https://github.com/RosettaCommons/RFantibody) - Structure-based de novo antibody design pipeline built on RFdiffusion for computational generation of target-specific antibodies (RosettaCommons, 2025)
 - [IgGM](https://github.com/TencentAI4S/IgGM) - Generative foundation model for functional antibody and nanobody design, supporting de novo generation, affinity maturation, inverse design, structure prediction, and humanization (Tencent AI4S, ICLR 2025)
 - [DrugAssist](https://github.com/blazerye/DrugAssist) - LLM-based molecular optimization tool
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design, combining filters, retrosynthesis checks, docking, pose validation, reports, and CLI/TUI workflows
 - [GenMol](https://github.com/NVIDIA-Digital-Bio/genmol) - ICML 2025 drug discovery generalist using masked discrete diffusion and fragment-based generation with molecular context guidance (NVIDIA)
 - [REINVENT](https://github.com/MolecularAI/Reinvent) - Industrial-grade reinforcement-learning-based generative platform for de novo molecular design with transformer architectures, supporting multi-objective optimization, scaffold decoration, and curriculum learning (AstraZeneca MolecularAI, REINVENT 4, 2024)
 - [mint](https://github.com/VarunUllanat/mint) - Learning the language of protein-protein interactions
