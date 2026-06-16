@@ -652,6 +652,7 @@
 - [Equiformer](https://github.com/atomicarchitects/equiformer) - Equivariant graph attention Transformer (ICLR2023)
 - [TORAX](https://github.com/google-deepmind/torax) - Differentiable tokamak core transport simulator for fusion energy research, coupling PDE solvers with JAX auto-differentiation and neural-network surrogates for fast forward modelling, pulse-design, and trajectory optimization (Google DeepMind, Apache 2.0)
 - [DiffPhysDrone (Nature Machine Intelligence 2025)](https://github.com/HenryHuYu/DiffPhysDrone) - First real quadrotor robot trained end-to-end with differentiable physics for vision-based agile flight, bridging simulation-based learning and real-world deployment with physics-informed neural network controllers (558+ stars)
+- [Walrus (arXiv 2025)](https://github.com/PolymathicAI/walrus) - Cross-domain foundation model for continuum dynamics trained on 19 physical scenarios spanning 63 variables, featuring adaptive compute via stride modulation and patch jittering for long-run stability (Polymathic AI, 293+ stars, MIT License)
 
 #### Astronomy & Astrophysics
 - [AstroCLIP](https://github.com/PolymathicAI/AstroCLIP) - Cross-modal self-supervised foundation model for galaxies by Polymathic AI, jointly embedding multi-band galaxy imaging and optical spectra into a shared latent space to enable zero/few-shot redshift estimation, galaxy property prediction, morphology classification, and cross-modal similarity search (MNRAS Letters 2024)
