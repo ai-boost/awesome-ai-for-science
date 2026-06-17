@@ -610,6 +610,7 @@
 #### LLM for Chemistry
 - [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry) - Curated paper list about LLMs for chemistry covering fine-tuning, reasoning, multi-modal models, agents, and benchmarks (COLING 2025)
 - [ChemMCP](https://github.com/OSU-NLP-Group/ChemMCP) - Extensible chemistry toolkit for MCP-enabled AI assistants, exposing molecule analysis, property prediction, and reaction synthesis tools through unified Python/MCP interfaces for chemistry agents and research workflows (Apache 2.0, 2025)
+- [MoleCode](https://github.com/AtomFlow-AI/MoleCode) - LLM-native molecular language that represents molecules as explicit graph-based code, enabling LLMs to operate and reason on chemistry directly with 5× lower token cost and ~76-80% accuracy on novel molecules vs ~20% for SMILES; supports small molecules, polymers, and Markush structures with lossless RDKit interconversion and Claude Code/Codex agent skills (AtomFlow, arXiv:2605.16480, 281+ stars, MIT License, 2026)
 
 #### Materials Discovery
 - [GNoME](https://github.com/google-deepmind/materials_discovery) - DeepMind's graph neural network for materials exploration, discovering 2.2M new crystal structures (380K most stable) equivalent to 800 years of traditional research, with 520K+ materials dataset open-sourced (Nature 2023)
