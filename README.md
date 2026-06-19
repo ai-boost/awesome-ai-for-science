@@ -264,6 +264,7 @@
 - [SciCode](https://github.com/scicode-bench/SciCode) - Research coding benchmark curated by scientists with 338 subproblems across 16 subdomains (physics, math, materials, biology, chemistry), evaluating LLMs on realistic scientific programming tasks with gold-standard solutions (NeurIPS 2024)
 - [SciBench](https://arxiv.org/abs/2307.10635) - College-level scientific problem-solving evaluation across multiple domains
 - [NewtonBench (ICLR 2026)](https://github.com/HKUST-KnowComp/NewtonBench) - First benchmark evaluating LLMs' ability to rediscover scientific laws through interactive experimentation across 324 tasks in 12 physics domains, featuring memorization-resistant metaphysical shifts of canonical laws (HKUST)
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to evaluate, trace, and guardrail LLM and AI-scientist agents, with 70+ eval metrics, LLM-as-judge, and OpenTelemetry-native tracing across 50+ frameworks (Apache 2.0)
 
 ### Academic Review & Evaluation
 - [AgentReview](https://agentreview.github.io/) - LLM agents simulating academic peer review ecosystems
