@@ -508,6 +508,7 @@
 - [mosaic](https://github.com/escalante-bio/mosaic) - Composite-objective protein design framework integrating Boltz, AlphaFold2, OpenFold3, ProteinMPNN, and ESM via JAX-based gradient optimization over continuous relaxed sequence space for multi-property binder design (319+ stars, MIT License, 2025)
 
 #### Genomics & Bioinformatics
+- [CASSIA](https://github.com/ElliotXie/CASSIA) - Multi-agent LLM for automated, reference-free, and interpretable cell-type annotation of single-cell RNA-seq data, with dedicated annotation, validation, quality-scoring, and reporting agents across 970+ cell types (UW-Madison, Nature Communications 2025)
 - [RhoFold+](https://github.com/ml4bio/RhoFold) - End-to-end RNA 3D structure prediction using RNA language model pretrained on 23.7M sequences, outperforming existing methods and human expert groups on RNA-Puzzles and CASP15 (Nature Methods 2024)
 - [NuFold (Nature Communications 2025)](https://github.com/kiharalab/NuFold) - End-to-end deep learning approach for RNA tertiary structure prediction with a flexible nucleobase center representation, achieving ~7 Å C1' RMSD across test RNAs and predicting ~545,000 structures covering 2,200+ RNA families (Kihara Lab, Purdue University, 50+ stars)
 - [RNA-FM (Nature Methods 2024)](https://github.com/ml4bio/RNA-FM) - RNA foundation model trained on millions of RNA sequences for generalist RNA sequence understanding, enabling downstream structure prediction, function annotation, and representation learning for non-coding RNAs (ml4bio, 372+ stars)
