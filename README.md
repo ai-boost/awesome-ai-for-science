@@ -886,6 +886,7 @@ This project builds upon and complements several excellent resources:
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
 - [Awesome LLM Agents Scientific Discovery](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) - Biomedical AI agents
 - [Awesome Foundation Models for Weather and Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) - Comprehensive survey of foundation models for weather and climate data understanding
+- [Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups) - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders (general AI startups, including AI-for-science)
 
 ### 📊 Paper & Research Collections
 - [Scientific LLM Papers](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - 260+ scientific language models
