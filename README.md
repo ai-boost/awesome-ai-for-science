@@ -110,6 +110,7 @@
 - [Paper2All](https://github.com/YuhangChen1/Paper2All) - AI-powered pipeline converting papers into interactive websites, posters, and multimedia presentations with "Let's Make Your Paper Alive!" philosophy
 
 ### Figure & Illustration Generation
+- [FigureGuild](https://figureguild.com) - Web tool for publication-ready scientific figures, multi-panel assembly, and AI-assisted graphical abstracts; free tier
 - [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - Automated academic illustration generation for AI scientists, converting research papers into publication-ready figures using VLMs and diffusion models with iterative refinement (PKU & Google Research, 6.2K+ stars, 2026)
 
 ### Chart & Visualization Generation  
