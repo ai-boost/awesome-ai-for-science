@@ -836,6 +836,9 @@
 - [The Elements of Statistical Learning](https://hastie.su.stanford.edu/ElemStatLearn/) - Classic ML textbook freely available
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online book by Michael Nielsen
 
+### Enterprise AI Research
+- [8bitconcepts](https://8bitconcepts.com) - Enterprise AI research papers covering hallucination budgets, agentic accountability gaps, and quantitative governance frameworks.
+
 ### 📋 Paper Collections & Repositories
 - [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - Curated scientific LLM papers (260+ models)
 - [Awesome LLM Scientific Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - LLM papers for scientific discovery
