@@ -80,6 +80,7 @@
 - [Snorkel](https://github.com/snorkel-team/snorkel) - Programmatic data labeling and weak supervision
 
 ### Research Workbench & Plugins
+- [Awesome Bio Agent Skills](https://github.com/BioTender-max/awesome-bio-agent-skills) - 1,676 deduplicated AI agent skills for biomedical research (genomics, proteomics, single-cell, clinical AI, protein design), as ready-to-use SKILL.md folders aggregated from 20 repos. Install with `npx bioskill install`.
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Comprehensive collection of 125+ ready-to-use scientific skill modules for Claude AI across bioinformatics, cheminformatics, clinical research, ML, and materials science
 - [GDM Science Skills](https://github.com/google-deepmind/science-skills) - Google DeepMind's official collection of agentic science skills accelerating scientific workflows with better grounding and higher token efficiency, integrating insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools (2026)
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science with 140+ ready-to-use skills and 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard (K-Dense-AI, 26K+ stars, 2025)
