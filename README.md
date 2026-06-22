@@ -706,6 +706,7 @@
 - [SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus) - Semantic-enhanced multi-modal remote sensing foundation model for Earth observation (Nature Machine Intelligence 2025), enabling universal interpretation across diverse satellite imagery modalities with open-source weights and benchmarks
 - [TESSERA (CVPR 2026)](https://github.com/ucam-eo/tessera) - University of Cambridge's foundation model for time-series satellite imagery, enabling efficient extraction of temporal patterns from Earth observation for land classification, canopy height prediction, and other remote sensing tasks
 - [TerraMind (IBM & ESA, 2025)](https://github.com/IBM/terramind) - First any-to-any generative foundation model for Earth Observation, enabling unified multimodal understanding and generation across diverse satellite sensors and geospatial tasks through a single architecture (258+ stars)
+- [Awesome Remote Sensing Foundation Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) - Curated collection of papers, datasets, benchmarks, code, and pre-trained weights for Remote Sensing Foundation Models (RSFMs), tracking the rapidly evolving landscape of vision, vision-language, generative, and agent-based geospatial AI (1.9K+ stars, 2024-2026)
 
 ### 🌾 Agriculture & Ecology
 
