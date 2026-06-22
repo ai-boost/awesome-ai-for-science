@@ -111,6 +111,7 @@
 
 ### Figure & Illustration Generation
 - [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) - Automated academic illustration generation for AI scientists, converting research papers into publication-ready figures using VLMs and diffusion models with iterative refinement (PKU & Google Research, 6.2K+ stars, 2026)
+- [FigPad](https://figpad.ai/) - AI workspace for creating scientific figures from prompts, sketches, or reference images, with editable SVG/PPTX export for papers, slides, and graphical abstracts ([GitHub](https://github.com/MissOrangePeel/figpad))
 
 ### Chart & Visualization Generation  
 *Note: For comprehensive chart understanding and code generation tools, see [📊 Chart Understanding & Generation](#-chart-understanding--generation) section*
