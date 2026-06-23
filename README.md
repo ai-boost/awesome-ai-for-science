@@ -264,6 +264,7 @@
 - [SciCode](https://github.com/scicode-bench/SciCode) - Research coding benchmark curated by scientists with 338 subproblems across 16 subdomains (physics, math, materials, biology, chemistry), evaluating LLMs on realistic scientific programming tasks with gold-standard solutions (NeurIPS 2024)
 - [SciBench](https://arxiv.org/abs/2307.10635) - College-level scientific problem-solving evaluation across multiple domains
 - [NewtonBench (ICLR 2026)](https://github.com/HKUST-KnowComp/NewtonBench) - First benchmark evaluating LLMs' ability to rediscover scientific laws through interactive experimentation across 324 tasks in 12 physics domains, featuring memorization-resistant metaphysical shifts of canonical laws (HKUST)
+- [ResearchClawBench (InternScience, arXiv 2026)](https://github.com/InternScience/ResearchClawBench) - Benchmark evaluating AI agents for end-to-end automated research from re-discovery to new-discovery, with 40 real-science tasks across 10 disciplines, curated datasets from published papers, and expert-curated multimodal rubrics (170+ stars, MIT License)
 
 ### Academic Review & Evaluation
 - [AgentReview](https://agentreview.github.io/) - LLM agents simulating academic peer review ecosystems
