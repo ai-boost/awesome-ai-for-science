@@ -890,6 +890,7 @@ This project builds upon and complements several excellent resources:
 - [Awesome AI Scientist Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) - Autonomous AI scientist research
 - [Awesome Scientific Machine Learning](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning) - Physics-informed ML and SciML
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
+-  [12 AI Co-Scientists of 2026](https://www.turingpost.com/p/ai-co-scientists-in-2026) - Practitioner overview of 12 autonomous research systems including DeepMind Co-Scientist, Robin, AxiomProver, ERA, and AutoResearchClaw.
 - [Awesome LLM Agents Scientific Discovery](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) - Biomedical AI agents
 - [Awesome Foundation Models for Weather and Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) - Comprehensive survey of foundation models for weather and climate data understanding
 
