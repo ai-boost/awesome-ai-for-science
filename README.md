@@ -893,6 +893,7 @@ This project builds upon and complements several excellent resources:
 - [Awesome Scientific Machine Learning](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning) - Physics-informed ML and SciML
 - [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents across scientific domains
 - [Awesome LLM Agents Scientific Discovery](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) - Biomedical AI agents
+- [Claw4Science](https://claw4science.org/) - Curated directory of science-focused AI agent projects, skills, and skill repositories
 - [Awesome Foundation Models for Weather and Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) - Comprehensive survey of foundation models for weather and climate data understanding
 
 ### 📊 Paper & Research Collections
