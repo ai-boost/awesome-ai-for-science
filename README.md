@@ -67,6 +67,7 @@
 - [OpenAlex](https://openalex.org/) - Open catalog of scholarly papers and authors
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
 - [Connected Papers](https://www.connectedpapers.com/) - AI-powered visual graph for exploring academic papers and discovering connected research through citation networks and semantic similarity
+- [Remio](https://remio.ai/) - Local-first personal knowledge base for research materials that pre-parses papers, files, webpages, recordings, notes, emails, messages, and images into indexed and vector-retrievable context for faster literature search, synthesis, and agent workflows
 - [PaSa (ByteDance)](https://github.com/bytedance/pasa) - Advanced paper search agent powered by large language models, autonomously invoking search tools, reading papers, and selecting references to deliver comprehensive and accurate results for complex scholarly queries (1.5K+ stars, Apache 2.0, 2024)
 
 ### Data Analysis & Visualization
