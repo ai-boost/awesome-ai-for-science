@@ -324,6 +324,7 @@
 - [PINNs](https://github.com/maziarraissi/PINNs) - Physics-informed neural networks
 - [NVIDIA PhysicsNeMo](https://github.com/NVIDIA/physicsnemo) - Open-source framework for building physics-ML models at scale (renamed from Modulus, 2025)
 - [PINA](https://github.com/mathLab/PINA) - Physics-Informed Neural networks for Advanced modeling in PyTorch
+- [NeuroMANCER (PNNL)](https://github.com/pnnl/neuromancer) - PyTorch-based differentiable programming framework for physics-informed system identification, parametric constrained optimization, and model predictive control, integrating neural operators, neural ODEs, KANs, SINDy, and differentiable predictive control with 30+ tutorials (1.3k+ stars, BSD License)
 - [SciANN](https://github.com/sciann/sciann) - Keras-based scientific neural networks
 - [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-informed neural networks in Julia
 
