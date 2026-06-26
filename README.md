@@ -104,6 +104,7 @@
 
 ### Video & Media Generation
 - [Paper2Video](https://github.com/showlab/Paper2Video) - First benchmark for automatic video generation from scientific papers (NeurIPS 2025)
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [paper2video](https://github.com/mett29/paper2video) - Transform arXiv research papers into engaging presentations and YouTube-ready videos
 
 ### Website & Interactive Content Generation
