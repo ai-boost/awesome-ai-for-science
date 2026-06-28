@@ -68,6 +68,7 @@
 - [CORE](https://core.ac.uk/) - Aggregator of open access research papers
 - [Connected Papers](https://www.connectedpapers.com/) - AI-powered visual graph for exploring academic papers and discovering connected research through citation networks and semantic similarity
 - [PaSa (ByteDance)](https://github.com/bytedance/pasa) - Advanced paper search agent powered by large language models, autonomously invoking search tools, reading papers, and selecting references to deliver comprehensive and accurate results for complex scholarly queries (1.5K+ stars, Apache 2.0, 2024)
+- [paper-search-mcp](https://github.com/openags/paper-search-mcp) - MCP server, CLI, and agent skills for searching and downloading academic papers from multiple open sources (arXiv, PubMed, bioRxiv, Semantic Scholar, OpenAlex, CORE, Europe PMC, etc.) with unified, deduplicated, LLM-friendly retrieval and an OA-first download fallback chain (OpenAGS, 1.9K+ stars, MIT License, 2025)
 
 ### Data Analysis & Visualization
 - [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Conversational data analysis using natural language
