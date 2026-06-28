@@ -84,6 +84,7 @@
 - [GDM Science Skills](https://github.com/google-deepmind/science-skills) - Google DeepMind's official collection of agentic science skills accelerating scientific workflows with better grounding and higher token efficiency, integrating insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools (2026)
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science with 140+ ready-to-use skills and 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard (K-Dense-AI, 26K+ stars, 2025)
 - [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) - 197 bioinformatics and life science skills for Claude Code and AI agents, achieving 92.0% accuracy on BixBench. Covers RNA-seq, single-cell analysis, drug discovery, proteomics, and more. Powers OmicsHorizon (195+ stars, 2026)
+- [Medical Research Skills](https://github.com/aipoch/medical-research-skills) - Curated library of 550+ medical research agent skills spanning evidence insights, protocol design, omics/clinical data analysis, and academic writing; each skill is reviewed through MedSkillAudit and compatible with Claude Code, Codex, Open Code, OpenClaw, and SKILL.md-compatible agents (AIPOCH, 1.2K+ stars, MIT License, 2026)
 
 ---
 
