@@ -938,6 +938,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
+## 🔧 AI Agent Skills & Tools
+
+- [Skill Hub](https://github.com/rdone4425/skill) — 4133+ AI Agent Skills directory classified across 22 categories. Filter by platform (Claude Code, Codex, Cursor, Hermes, OpenCode). [Live site](https://skill.442595.xyz/)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
