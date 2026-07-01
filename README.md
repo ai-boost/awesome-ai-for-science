@@ -794,6 +794,7 @@
 
 ### Physics
 - [The Well](https://github.com/PolymathicAI/the_well) - 15TB collection of 16 large-scale numerical simulation datasets spanning fluid dynamics, MHD, astrophysics, biological systems, and acoustic scattering, with unified PyTorch dataloaders and benchmarks for training foundation models on physical sciences (Polymathic AI, NeurIPS 2024)
+- [RealPDEBench (ICLR 2026 Oral)](https://github.com/AI4Science-WestlakeU/RealPDEBench) - First scientific ML benchmark with paired real-world measurements and matched numerical simulations for complex physical systems, featuring 5 scenarios, 700+ trajectories, 10 baseline models, and 9 evaluation metrics with HuggingFace datasets and model checkpoints (Westlake University, CC BY-NC 4.0)
 - [LIGO Open Science Center](https://gwosc.org/) - Gravitational wave data
 - [Particle Data Group](https://pdg.lbl.gov/) - Particle physics data
 - [OpenQuantumMaterials](https://www.quantum-materials.org/) - Quantum materials data
